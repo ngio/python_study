@@ -63,7 +63,7 @@ plt.ylabel('y 좌표')
 #fig1 = plt.gcf()
 #fig1.savefig(prePath +'img01.png' )
 plt.savefig(prePath +'output/img01.png' )
-#plt.show()
+plt.show()
 
 # 국립공원이 언급된 깃대종 기사건수
 df2 = df[df['제목'].str.contains('국립공원') | df['본문'].str.contains('국립공원')]
@@ -99,7 +99,6 @@ f.close()
 # 단어빈도 분석 - 상위 20개 단어
 words = []
 for i in range(len(lines)):
-    #word.append(hannanum.nouns(lines[i]))
     nouns  = hannanum.nouns(lines[i])  # 명사 분석        
     """
     morphs = hannanum.morphs(lines[i]) # 문장 분석
@@ -108,8 +107,6 @@ for i in range(len(lines)):
     for n in nouns:          #nonus 가 단어 배열이어서 한번 더 나누어서 word에 추가
         if len(n)>1:         # 명사중에 길이가 1 이상인것만 추가
             words.append(n)
-            #print(n)
-    #print(hannanum.nouns(lines[i]))
     
 def flatten(l):
     flatList = []
@@ -156,6 +153,7 @@ plt.axis('off')
 plt.savefig(prePath +'output/img04.png', bbox_inches='tight')
 
 
+
 # WordCloud ========== 깃대종 제외한 클라우드 ===============================
 count.pop('깃대종')
 wordcloud = wordcloud.generate_from_frequencies(count)
@@ -165,4 +163,4 @@ fig = plt.figure(figsize=(10,10))
 plt.imshow(array, interpolation="bilinear")
 plt.axis('off')
 plt.savefig(prePath +'output/img05.png', bbox_inches='tight')
-#plt.show()
+plt.show()
