@@ -59,16 +59,4 @@ te_ary = te.fit(dataset).transform(dataset)
 df = pd.DataFrame(te_ary, columns=te.columns_)
 df_list = df[['깃대종', '국립공원', '속리산', '발행', '가야산', '변산반', '오대산']].head()
 print(df_list)
-
-#어프라이어리(Apriori) 
-from mlxtend.frequent_patterns import apriori, association_rules  
-# 항목 개수가 2개이고 지지도(support)가 0.01 이상인 항목집합만 추려낸 결과입니다.
-#지지도(support) : P(A∩B)
-print(" #지지도(support) : P(A∩B) ")
-frequent_itemsets = apriori(df, min_support=0.01, use_colnames=True)
-print(frequent_itemsets)
-frequent_itemsets['length'] = frequent_itemsets['itemsets'].apply(lambda x: len(x))
-
-#  항목 개수가 2개이고 지지도(support)가 0.01 이상인 항목집합만 추려낸 결과입니다.
-frequent_list = frequent_itemsets[(frequent_itemsets['length'] == 2) & (frequent_itemsets['support'] >= 0.01)].sort_values(by='support', ascending=False).head(10)
-print(frequent_list)
+ 
