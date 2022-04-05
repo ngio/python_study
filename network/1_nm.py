@@ -164,3 +164,4 @@ plt.imshow(array, interpolation="bilinear")
 plt.axis('off')
 plt.savefig(prePath +'output/img05.png', bbox_inches='tight')
 plt.show()
+
