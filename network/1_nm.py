@@ -131,28 +131,7 @@ from collections import Counter
 
 count = Counter(word_list)
 max_words_num = 100
-
-font_name=fm.FontProperties(fname="C:\\Windows\\Fonts\\NanumGothic.ttf").get_name()
-rc('font', family=font_name)
-wordcloud = WordCloud(
-    font_path = 'C:\\Windows\\Fonts\\NanumGothic.ttf'    # 맥에선 한글폰트 설정 잘해야함.
-    , background_color='white'                             # 배경 색깔 정하기
-    #, colormap = 'Accent_r'                                # 폰트 색깔 정하기
-    , width = 800
-    , height = 800
-    , max_words=max_words_num
-    , max_font_size=300
-    #, mask=r2d2_mask
-    #, stopwords=stopwords
-).generate_from_frequencies(count)
-array = wordcloud.to_array()        
-
-fig = plt.figure(figsize=(10,10))
-plt.imshow(array, interpolation='bilinear')
-plt.axis('off')
-plt.savefig(prePath +'output/img04.png', bbox_inches='tight')
-
-
+ 
 
 # WordCloud ========== 깃대종 제외한 클라우드 ===============================
 count.pop('깃대종')
