@@ -19,3 +19,36 @@ timeserise = str(int(timeserise))
 print(timeserise)
 print(now)
 #################################################  
+
+"""        
+def getPageLinks(pageRange):
+    links = []
+    
+    for pageNo in range(pageRange):
+        url = "https://apis.naver.com/seriesOnWeb/serieson-web/v2/movie/products?ero=false&orderType=RECENT_REGISTRATION&offset="+ str(pageNo) +"&limit=31&_t=1649039368714"
+        url = "https://serieson.naver.com/v2/movie/products"
+        req = requests.get(url)
+        soup = BeautifulSoup(req.text, 'lxml')
+        movielinks = soup.select("div.content_list_con ul li a[href]")
+        
+        for movielink in movielinks:
+            link = str(movielink.get('href'))
+            links.append("https://serieson.naver.com"+link)
+    return links
+
+def getPageLinksWantRange(startPageNo, lastPageNo):
+    links = []
+    return_links = []
+    
+    for pageNo in range(startPageNo-1, lastPageNo):
+        url = "https://apis.naver.com/seriesOnWeb/serieson-web/v2/movie/products?ero=false&orderType=RECENT_REGISTRATION&offset="+ str(pageNo+1) +"&limit=31&_t=1649039368714"
+        url = "https://serieson.naver.com/v2/movie/products"
+        req = requests.get(url)
+        soup = BeautifulSoup(req.text, 'lxml')
+        movielinks = soup.select("div.content_list_con ul li a[href]")
+        
+        for movielink in movielinks:
+            link = str(movielink.get('href'))
+            links.append("https://serieson.naver.com"+link)
+    return links
+"""   
