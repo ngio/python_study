@@ -37,3 +37,9 @@ timeserise = str(int(timeserise))
 print(timeserise)
 print(now)
 #################################################  
+
+#작업하는 경로(위치)가 어디인지 확인
+print(os.getcwd())
+
+prePath = "./Project/DataCrawring/"
+file_name = prePath + "input/movie_data_1649226040.csv" 
