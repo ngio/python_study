@@ -21,3 +21,19 @@ sns.set(style='darkgrid',font='KoPubDotum', font_scale=1.5 )
 from matplotlib import rc
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm  # 폰트 관련 용도
+
+font_fname = "C:/Windows/Fonts/NanumGothic.ttf"  # A font of your choice
+fontprop = fm.FontProperties(fname=font_fname, size=18)
+font_name=fm.FontProperties(fname=font_fname).get_name()  #print('-- font_name : ', font_name)
+plt.rc('font', family=font_name)
+
+## 시간 표시  ##################################### 
+import time
+import datetime
+now = datetime.datetime.now()
+
+timeserise = time.time()
+timeserise = str(int(timeserise))
+print(timeserise)
+print(now)
+#################################################  
