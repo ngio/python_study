@@ -43,3 +43,11 @@ print(os.getcwd())
 
 prePath = "./Project/DataCrawring/"
 file_name = prePath + "input/movie_data_1649226040.csv" 
+
+import warnings
+with warnings.catch_warnings(record=True):
+    warnings.simplefilter("always") 
+print(file_name)  
+#df  = pd.read_excel(file_name, sheet_name='sheet', index_col='일자', parse_dates=True, engine="openpyxl")
+movie_df = pd.read_csv(file_name)
+movie_df.info()
