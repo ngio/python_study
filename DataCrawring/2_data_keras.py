@@ -59,3 +59,5 @@ movie_df.info()
 ### print(movie_df[31:40])
 ### movie_df.to_csv(file_name, index=False, mode='w', header=True, line_terminator=False, encoding='utf-8-sig')
 
+x_data = movie_df['clean_synopsis']  # 특수문자제거 줄거리
+y_data = movie_df['starScore']       # 영화 평점
