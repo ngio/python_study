@@ -68,3 +68,9 @@ tokenizer = Tokenizer()
 tokenizer.fit_on_texts(x_data)
 sequences = tokenizer.texts_to_sequences(x_data)
 word_index = tokenizer.word_index
+print(word_index)
+
+
+
+
+
