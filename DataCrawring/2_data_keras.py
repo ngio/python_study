@@ -61,3 +61,10 @@ movie_df.info()
 
 x_data = movie_df['clean_synopsis']  # 특수문자제거 줄거리
 y_data = movie_df['starScore']       # 영화 평점
+
+# 줄거리를 토큰화하고 각각의 토큰을 숫자로 변경하였습니다.
+from keras.preprocessing.text import Tokenizer
+tokenizer = Tokenizer()
+tokenizer.fit_on_texts(x_data)
+sequences = tokenizer.texts_to_sequences(x_data)
+word_index = tokenizer.word_index
