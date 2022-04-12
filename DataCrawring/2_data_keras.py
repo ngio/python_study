@@ -51,3 +51,11 @@ print(file_name)
 #df  = pd.read_excel(file_name, sheet_name='sheet', index_col='일자', parse_dates=True, engine="openpyxl")
 movie_df = pd.read_csv(file_name)
 movie_df.info()
+
+
+# clean synopsis column add , update save
+print(movie_df['synopsis'].str.replace(pat=r'[^\w]',repl=r' ',regex=True))  # 특수문자 제거
+movie_df.insert(2, "clean_synopsis", movie_df['synopsis'].str.replace(pat=r'[^\w]',repl=r' ',regex=True))
+print(movie_df[31:40])
+movie_df.to_csv(file_name, index=False, mode='w', header=True, line_terminator=False, encoding='utf-8-sig')
+
