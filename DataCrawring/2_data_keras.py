@@ -71,6 +71,8 @@ word_index = tokenizer.word_index
 print(word_index)
 
 
+vocab_size = len(tokenizer.word_index) + 1 # 패딩을 고려하여 +1
+print('단어 집합 :',vocab_size)
 
 
 
