@@ -74,5 +74,11 @@ print(word_index)
 vocab_size = len(tokenizer.word_index) + 1 # 패딩을 고려하여 +1
 print('단어 집합 :',vocab_size)
 
+print('줄거리의 최대 길이 : {}'.format(max(len(l) for l in x_data)) )
+print('줄거리의 평균 길이 : {}'.format(sum(map(len, x_data)) / len(x_data)))
+plt.hist([len(s) for s in x_data], bins=50)
+plt.xlabel('length of Data')
+plt.ylabel('number of Data')
+#plt.show()
 
 
