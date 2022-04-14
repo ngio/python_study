@@ -82,3 +82,10 @@ plt.ylabel('number of Data')
 #plt.show()
 
 
+from keras.datasets import reuters
+from keras.models import Sequential
+from keras.layers import Dense, LSTM, Embedding
+from keras.preprocessing import sequence
+from keras.preprocessing.sequence import pad_sequences  # 패딩을 위해 pad_sequences()를 제공
+from keras.utils import np_utils
+import seaborn as sns
