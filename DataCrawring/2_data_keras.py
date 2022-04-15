@@ -89,3 +89,13 @@ from keras.preprocessing import sequence
 from keras.preprocessing.sequence import pad_sequences  # 패딩을 위해 pad_sequences()를 제공
 from keras.utils import np_utils
 import seaborn as sns
+
+
+max_len = 250
+X_train = pad_sequences(sequences, maxlen=max_len, padding='post')
+y_train = np_utils.to_categorical(y_data)
+ 
+print('패딩 결과 :')
+print(X_train)
+
+embedding_dim = 4
