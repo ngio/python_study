@@ -108,3 +108,7 @@ model3.add(Dense(11, activation='softmax'))
 model3.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
 #model3.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
 
+history = model3.fit(X_train, y_train, epochs=10, batch_size=10)
+
+print("\n 테스트 정확도 : %.4f" % (model3.evaluate(X_train, y_train)[1]))
+
