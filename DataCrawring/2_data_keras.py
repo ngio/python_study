@@ -99,3 +99,12 @@ print('패딩 결과 :')
 print(X_train)
 
 embedding_dim = 4
+
+
+model3 = Sequential()
+model3.add(Embedding(vocab_size, embedding_dim, input_length=max_len))
+model3.add(LSTM(120))
+model3.add(Dense(11, activation='softmax'))
+model3.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
+#model3.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
+
