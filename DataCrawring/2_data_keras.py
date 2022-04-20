@@ -112,3 +112,5 @@ history = model3.fit(X_train, y_train, epochs=10, batch_size=10)
 
 print("\n 테스트 정확도 : %.4f" % (model3.evaluate(X_train, y_train)[1]))
 
+#graph = sns.countplot(data = model3, x="score")
+
