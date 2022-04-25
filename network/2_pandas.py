@@ -48,15 +48,3 @@ for i in range(len(lines)):
     dataset.append(hannanum.nouns( re.sub('[^가-힣a-zA-Z\s]', '', lines[i] ) ))
 #print(dataset[:10])
 
-#트래잭션 인코더
-# pandas : 파이썬에서 사용하는 데이터분석 라이브러리로, 행과 열로 이루어진 데이터 객체를 만들어 다룰 수 있게 되며 보다 안정적으로 대용량의 데이터들을 처리하는데 매우 편리한 도구
-# mlxtend :  일상적인 데이터 사이언스 작업에 유용한 도구들로 구성된 파이썬 라이브러리
-print(" #트래잭션 인코더 ")
-from mlxtend.preprocessing import TransactionEncoder
-te = TransactionEncoder()
-# 주어진 코드에서 fit 함수를 통해 dataset은 고유한 라벨을 갖게 되고 , transform함수를 통해서 파이썬 리스트를 one-hot 인코딩 된 numPy 배열로 변환합니다.
-te_ary = te.fit(dataset).transform(dataset)  
-df = pd.DataFrame(te_ary, columns=te.columns_)
-df_list = df[['깃대종', '국립공원', '속리산', '발행', '가야산', '변산반', '오대산']].head()
-print(df_list)
- 
