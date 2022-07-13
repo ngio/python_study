@@ -1,6 +1,7 @@
 # python_study
 python, konply, numpy, matplotlib, networkx, pandas
 
+
 2022-05-11 아무것도 못하고 있다. 
 2022-05-27 이제 다시 시작~
 2022-06-03 벌써 6월
@@ -8,6 +9,7 @@ python, konply, numpy, matplotlib, networkx, pandas
 2022-06-10 시간 잘 간다
 2022-06-15 아하~ 
 2022-06-30 이제 올해의 절반. 뭐라도 시작 할 때이다. 
+
 
 ## /network/
 ### 1. nm.py : 빅카인즈 뉴스 데이터를 이용한 '깃대종' 통계 가시화, 국립공원이 언급된 깃대종 기사건수
