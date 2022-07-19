@@ -183,3 +183,4 @@ gm.make_graphml(df3.iloc[0:1027,:], graphml_file)
 
 
 #이게 끝인가? 
+#Git test 2022-07-19
