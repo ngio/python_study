@@ -180,3 +180,6 @@ graphml_file = prePath + 'output/netpac_001.graphml'
 
 #iloc는 인덱스 index of location 열에서 : 써야 함 (열 전체 보여주려면)
 gm.make_graphml(df3.iloc[0:1027,:], graphml_file)
+
+
+#이게 끝인가? 
