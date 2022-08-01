@@ -10,7 +10,8 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-06-15 아하~ 
         2022-06-30 이제 올해의 절반. 뭐라도 시작 할 때이다. 
         2022-07-18 Git을 VScode에 적용하다.
-        2022-07-21 아직 장마인가? 
+        2022-07-21 아직 장마인가?
+        2022-08-01 jupyter notebook 다시 들어가야 하는데. 
 
 
 ## /network/
