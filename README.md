@@ -13,6 +13,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-07-21 아직 장마인가?
         2022-08-01 jupyter notebook 다시 들어가야 하는데. 
         2022-08-04 쉬고 싶다
+        2022-08-22 뭔가 여름이 끝나가나.
 
 
 ## /network/
