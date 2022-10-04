@@ -15,6 +15,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-08-04 쉬고 싶다
         2022-08-22 뭔가 여름이 끝나가나.
         2022-09-14 Node.js를 해보다가 시간이 쓱 지나가 버렸네
+        2022-10-04 아~ 벌써 10월...
 
 
 ## /network/
