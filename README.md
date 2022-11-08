@@ -20,6 +20,8 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-10-11 2주 연속 3일씩 쉬었더니, 정신 없구만. 
         2022-11-01 어쩌다보니 벌써 11월. 아이고~
 
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
 [hyperpolyglot.org/scripting](https://hyperpolyglot.org/scripting)
 
 ## /network/
