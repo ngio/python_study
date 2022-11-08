@@ -20,7 +20,9 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-10-11 2주 연속 3일씩 쉬었더니, 정신 없구만. 
         2022-11-01 어쩌다보니 벌써 11월. 아이고~
         
-        CoP python 폴더 추가 [/python_study/CoP_study/ ](https://github.com/ngio/python_study/tree/main/CoP_study)
+        CoP python 폴더 추가 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
+
+[/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
 
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
