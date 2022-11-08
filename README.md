@@ -20,7 +20,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-10-11 2주 연속 3일씩 쉬었더니, 정신 없구만. 
         2022-11-01 어쩌다보니 벌써 11월. 아이고~
 
-[Website](https://hyperpolyglot.org/scripting)
+[hyperpolyglot.org/scripting](https://hyperpolyglot.org/scripting)
 
 ## /network/
 ### 1. nm.py : 빅카인즈 뉴스 데이터를 이용한 '깃대종' 통계 가시화, 국립공원이 언급된 깃대종 기사건수
