@@ -30,6 +30,27 @@ python, konply, numpy, matplotlib, networkx, pandas
 
 [hyperpolyglot.org/scripting](https://hyperpolyglot.org/scripting)
 
+
+
+
+‡‡ 왕초보를 위한 Python :       https://wikidocs.net/book/2  연습문제 맛집
+    1.파이썬 시작하기           https://wikidocs.net/43
+    2.제어 구조                https://wikidocs.net/55
+    2.1 while을 사용하는 반복문 https://wikidocs.net/56      https://youtu.be/j_NPpCNsfIM
+    2.2 조건문(if-elif-else)   https://wikidocs.net/57
+    2.3 for를 사용하는 반복문   https://wikidocs.net/58      https://youtu.be/TdFn4dnERHk
+    2.4 match-case 문          https://wikidocs.net/173398
+    3. 함수                    https://wikidocs.net/86466
+    4. 데이터 타입             https://wikidocs.net/86707
+    5. 모듈                    https://wikidocs.net/132933
+    6. 파일                    https://wikidocs.net/132935
+    7. 객체지향                https://wikidocs.net/84
+    8.예외처리(try, except)    https://wikidocs.net/90
+    9. 테스팅과 성능            https://wikidocs.net/132931  
+
+
+
+
 ## /network/
 ### 1. nm.py : 빅카인즈 뉴스 데이터를 이용한 '깃대종' 통계 가시화, 국립공원이 언급된 깃대종 기사건수
 ### 1. nm_xls_extract.py : 엑셀 파일에서 원하는 시트의 셀만 가져오기
