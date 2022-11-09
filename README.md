@@ -33,7 +33,7 @@ python, konply, numpy, matplotlib, networkx, pandas
 
 
 
-        ‡‡ 왕초보를 위한 Python :       https://wikidocs.net/book/2  연습문제 맛집
+        ‡‡ 왕초보를 위한 Python :       [Website](https://wikidocs.net/book/2)  연습문제 맛집
             1.파이썬 시작하기           https://wikidocs.net/43
             2.제어 구조                https://wikidocs.net/55
             2.1 while을 사용하는 반복문 https://wikidocs.net/56      https://youtu.be/j_NPpCNsfIM
