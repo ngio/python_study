@@ -27,6 +27,8 @@ python, konply, numpy, matplotlib, networkx, pandas
 
 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
 
+Beginner Game [/python_study/CoP_study/beginner_game/](https://github.com/ngio/python_study/tree/main/CoP_study/beginner_game)
+
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 [Python overapi](https://overapi.com/python)
