@@ -21,6 +21,9 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-11-01 어쩌다보니 벌써 11월. 아이고~
         
         CoP python 폴더 추가 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
+        
+        Beginner Games : [/python_study/CoP_study/beginner_game/](https://github.com/ngio/python_study/tree/main/CoP_study/beginner_game)
+        
 
 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
 
