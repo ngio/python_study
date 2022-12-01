@@ -2,5 +2,6 @@
 
 http://www.yes24.com/Product/Goods/66531799
 
+ 
 
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+<img src="https://github.com/ngio/python_study/blob/800e5eea9f3379693b0940d1084ad7f831131318/python_XL.jpg" alt="MarineGEO circle logo" style="width:100px;"/>
