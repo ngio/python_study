@@ -21,6 +21,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-11-01 어쩌다보니 벌써 11월. 아이고~
         2022-12-01 다시 시작. python
         2022-12-06 제어문 복습, 가상환경, 단어 추가
+        2022-12-13 함수, 반복문
         
         
         
