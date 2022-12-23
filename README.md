@@ -22,6 +22,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-12-01 다시 시작. python
         2022-12-06 제어문 복습, 가상환경, 단어 추가
         2022-12-13 함수, 반복문
+        2022-12-23 벌써 크리스마스! 아직 교육이 2주차 남았다. 
         
         
         
