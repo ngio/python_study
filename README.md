@@ -26,7 +26,7 @@ python, konply, numpy, matplotlib, networkx, pandas
         2022-12-27 올해는 파이썬을 많이 해본 한해였구나.
         2023-01-10 새해. 시간 잘 간다.
         2023-01-15 이제 CoP 2 타임 남았구나. 준비준비!
-        
+        2023-02-06 CoP 2기 종료
         
         
         CoP python 폴더 추가 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
