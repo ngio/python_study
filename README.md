@@ -28,7 +28,114 @@ python, konply, numpy, matplotlib, networkx, pandas
         2023-01-15 이제 CoP 2 타임 남았구나. 준비준비!
         2023-02-06 CoP 2기 종료
         
+
+*** 운영기간 : 2022/11/18 ~ 2023/1/20, 7회 운영 
+   학습주제 : Python 기본 문법 & 실습				
+1. 운영목표 : 교재를 통해 Python 기본문법을 숙달하고, 간단한 프로그램 제작.				
+2. 가입조건 : 프로그래밍 언어 유경험자, 관심이 많은 자				
+3. 운영인원 : 6명 내외				
+4. 학습활동 		
+ - 1~2주차 : 설치, 기본문법(변수,자료형,연산)
+ - 3~4주차 : 기본문법(조건문,반복문), 예외처리
+ - 5~6주차 : 함수, 클래스
+ - 7~9주차 : 교재내 예제 프로그램 개발
+
+
+ * 참고교재: 모두의 파이썬(20일 만에 배우는 프로그래밍 기초)  https://thebook.io/007026/
+            길벗 예제 - https://www.gilbut.co.kr/book/view?bookcode=BN002243#bookData
+
         
+        
+2022-11-18
+1주차 주제 : 엑셀이 없던 시절, 그 이후 
+            개발 배우기가 정말 어려운 이유
+            Python으로 무엇을 할 것인가? 
+            내가 하고 싶은 것은?
+            Python 설치 & 사용환경
+
+2022-11-24
+2주차 : 파이썬 설치 상태 확인 
+        파이썬 모듈 설치하기 - https://docs.python.org/ko/3.7/installing/index.html
+        기본문법 고고!   - https://wikidocs.net/11
+           시작하기 : https://wikidocs.net/7014
+           변수 : https://wikidocs.net/7021
+           문자열 1 : https://wikidocs.net/7022
+                  2 : https://wikidocs.net/7024
+                  3 : https://wikidocs.net/78558
+           리스트 1 : https://wikidocs.net/7023
+                 2 : https://wikidocs.net/7025
+            튜플 : https://wikidocs.net/7027
+            딕셔너리 1 : https://wikidocs.net/22000
+                    2 : https://wikidocs.net/78563
+          
+         워드클라우드 만들기
+
+
+2022-11-30
+3주차 : 제어문   
+        전처리 (파일저장, 엑셀데이터 추출)
+        빈도수 추출 한글 단어
+
+
+
+2022-12-08
+4주차 : 제어문 복습
+        가상환경
+
+        
+        파이썬 모듈 설치하기 : https://docs.python.org/ko/3.10/installing/index.html
+
+        1. 가상환경 내 python 버전 업그레이드
+            가상환경 내 버전 변경하는 방법은 아래와 같습니다.
+            (base) D:\_python_project\jupyter>conda search python
+            
+            명령어를 수행하면 설치 가능한 버전들이 나열이 됩니다.
+            (base) D:\_python_project\jupyter>conda install python=3.8.0
+
+            설치 후 버전 확인
+            (base) D:\_python_project\jupyter>python -V
+
+        2. 가상환경 만들기( python 버전 지정)
+            가상환경 내 버전 변경하는 방법은 아래와 같습니다.
+            (base) D:\_python_project\jupyter>conda search python
+            
+            명령어를 수행하면 설치 가능한 버전들이 나열이 됩니다.
+            (base) D:\_python_project\jupyter>conda install python=3.8.0
+
+            설치 후 버전 확인
+            (base) D:\_python_project\jupyter>python -V
+
+
+2022-12-15
+5주차 : 함수, 지역변수, 전역변수, 입출력, 코딩시 표기법 '명명법'
+
+
+2023-01-12
+6주차 : 클래스, 모듈, 패키지
+        - 환경변수, 디렉토리, 파일 
+        - 인코딩
+        클래스 : https://wikidocs.net/28
+        모듈 : https://wikidocs.net/29
+        패키지 : https://wikidocs.net/1418
+
+2023-01-17
+7주차 : CoP 내용정리 토론
+        
+        어려웠던 부분
+        보람있었던 부분
+
+        앞으로의 방향
+         - 데이터 분석가는 ‘기획자’에 가깝고, 데이터 엔지니어와 사이언티스트는 ‘개발자’ 쪽에 가깝습니다. 
+        빅데이터 : https://modulabs.co.kr/blog/category/bigdata/
+        https://modulabs.co.kr/blog/data-analyst-2/
+
+
+
+
+=======================================================================================================================
+
+
+
         CoP python 폴더 추가 [/python_study/CoP_study/](https://github.com/ngio/python_study/tree/main/CoP_study)
         
         Beginner Games : [/python_study/CoP_study/beginner_game/](https://github.com/ngio/python_study/tree/main/CoP_study/beginner_game)
