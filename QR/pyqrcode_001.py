@@ -25,8 +25,8 @@ import pyqrcode
 import png
 from PIL import Image 
 
+#현재 파일이 실행되는 경로 확인
 print(" os.getcwd() : ", os.getcwd())
-
 
 prePath = "./Project/QR/"
 file_name = prePath + "QRCode.png" 
@@ -35,5 +35,7 @@ link = input("URL을 입력하세요~ : ")
 qr_code = pyqrcode.create(link)
 qr_code.png( file_name, scale=5)
 
+# 생성된 이미지 확인
 img_open = Image.open(file_name)
 img_open.show()
+
