@@ -23,7 +23,9 @@ def guguHorizontal():
 
  
 # 메인 while 루프 입니다.
+
 print("구구단 프로그램 시작...")
+
 while True:
     print("=" * 30)         # "="를 30개 출력
     print("1. 특정 단수 세로로 출력.")
@@ -45,3 +47,7 @@ while True:
         break  # 프로그램 종료
     else:
         print("1~4 사이의 숫자를 입력해주세요")  # 1~3 번호가 아닐 때 예외처리
+      
+      
+      
+      
