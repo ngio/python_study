@@ -27,10 +27,13 @@ from PIL import Image
 
 print(" os.getcwd() : ", os.getcwd())
 
+
 prePath = "./Project/QR/"
 file_name = prePath + "QRCode.png" 
 
 link = input("URL을 입력하세요~ : ")
 qr_code = pyqrcode.create(link)
 qr_code.png( file_name, scale=5)
-Image.open(file_name)
+
+img_open = Image.open(file_name)
+img_open.show()
