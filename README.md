@@ -1,5 +1,11 @@
 # python_study
-python, konply, numpy, matplotlib, networkx, pandas
+python, konply, numpy, matplotlib, networkx, pandas, Gradio
+
+Gradio  <em>Build & share delightful machine learning apps easily</em>
+
+https://gradio.app/             
+https://github.com/gradio-app/gradio   
+
 
 
         2022-05-11 아무것도 못하고 있다. 
