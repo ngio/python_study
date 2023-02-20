@@ -34,6 +34,8 @@ https://github.com/gradio-app/gradio
         2023-01-15 이제 CoP 2 타임 남았구나. 준비준비!
         2023-02-06 CoP 2기 종료
         
+        2023-02-20 잠깐 한눈팔면 시간 순삭이구나~ 
+        
 
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
