@@ -39,6 +39,7 @@ https://github.com/gradio-app/gradio
         2023-02-27 2월도 끝이구나~ 
         2023-03-03 3월, 좀 더 달려볼까~
         2023-03-06 VScode 다시 셋팅~ 
+        2023-03-07 Anaconda Install
         
 
 CoP : 학습공동체
