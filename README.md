@@ -40,7 +40,7 @@ https://github.com/gradio-app/gradio
         2023-03-03 3월, 좀 더 달려볼까~
         2023-03-06 VScode 다시 셋팅~ 
         2023-03-07 Anaconda Install
-        
+        2023-03-13 쿼즈? 문제풀이? 
 
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
