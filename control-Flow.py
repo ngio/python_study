@@ -16,6 +16,7 @@ if b > a:
 elif a == b:
     print("a and b equal")
     
+    
 print("----- for")
 fruits = [ "apple", "banana", "cherry"]    
 for x in fruits:
@@ -30,6 +31,7 @@ while i < 6:
         break
     i += 1
 
+    
 print("----- continue")
 i = 0
 while i < 6: 
