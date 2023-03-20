@@ -6,3 +6,7 @@
 import os
 ret = os.getcwd()
 print(ret, type(ret))
+
+
+# 파일 이름 변경
+os.rename("C:/Users/hyunh/Desktop/before.txt", "C:/Users/hyunh/Desktop/after.txt")
