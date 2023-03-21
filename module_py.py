@@ -20,5 +20,7 @@ os.rename("./after.txt", "./before.txt")
 import numpy
 for i in numpy.arange(0, 5, 0.1):
     print(i)
+
+import mod1
+print(" module name is ", mod1.__name__)
     
- 
