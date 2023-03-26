@@ -42,7 +42,8 @@ https://github.com/gradio-app/gradio
         2023-03-07 Anaconda Install
         2023-03-13 쿼즈? 문제풀이? 
         2023-03-17 Python Control-Flow
-        2023-03-22 3월도 2분기 지
+        2023-03-22 3월도 2분기 지남
+        2023-03-26 3일간의 구례 여행 다녀옴. 곡전재 
 
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
