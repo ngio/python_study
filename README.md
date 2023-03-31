@@ -47,6 +47,7 @@ https://github.com/gradio-app/gradio
         2023-03-27 Github 오류? 왜 안되지? 
         2023-03-28 Github 오류? 
         2023-03-29 도전이 키워드인가. ㅇㅏㅇㅣㅍㅐㄷㅡ ㅎㅏㄴㄱㅡㄹ ㅇㅣㅂㄹㅕㄱㅅㅣ ㄱㅡㄹㅈㅏㄱㅏ ㅎㅓㅎㅓ
+        2023-04-01 벌써 4
 
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
