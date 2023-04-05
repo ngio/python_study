@@ -50,6 +50,7 @@ https://github.com/gradio-app/gradio
         2023-04-01 벌써 4
         2023-04-03 ngio.github.io   [https://ngio.github.io/]
         2023-04-04 비가 언제 올건가...
+        2023-04-05 간만에 시원하게 비가 온다. 久しぶりに涼しく雨が降る。
    
 
 CoP : 학습공동체
