@@ -75,3 +75,21 @@ a = FourCal.FourCal(4,2)
 
 a.add()
 
+
+print("====================")
+
+x = 'abcd'        
+for i in range(len(x)):
+    print(i)
+
+print("====================")
+
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+    if i == 3:
+        break
+    else:
+        print(0)
+     
