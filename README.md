@@ -54,6 +54,7 @@ https://github.com/gradio-app/gradio
         2023-04-08 또 
         2023-04-11 비가 온다 雨が降る
         2023-04-13 This is the Way.
+        2023-04-15 비가 
    
 
 CoP : 학습공동체
