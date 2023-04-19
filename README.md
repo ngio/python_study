@@ -55,6 +55,7 @@ https://github.com/gradio-app/gradio
         2023-04-11 비가 온다 雨が降る
         2023-04-13 This is the Way.
         2023-04-15 비가 
+        2023-04-19 28도까지 온도가 올라간다는데?
    
 
 CoP : 학습공동체
