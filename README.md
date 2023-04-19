@@ -56,6 +56,7 @@ https://github.com/gradio-app/gradio
         2023-04-13 This is the Way.
         2023-04-15 비가 
         2023-04-19 28도까지 온도가 올라간다는데?
+        2023-04-20 곡우
    
 
 CoP : 학습공동체
