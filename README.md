@@ -59,6 +59,7 @@ https://github.com/gradio-app/gradio
         2023-04-20 곡우
         2023-04-21 이제 출국
         2023-04-22 Ueno
+        2023-04-23 우에노 
    
 
 CoP : 학습공동체
