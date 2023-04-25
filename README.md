@@ -61,7 +61,10 @@ https://github.com/gradio-app/gradio
         2023-04-22 Ueno
         2023-04-23 우에노,오다이바
         2023-04-24 케이세이우에노, 스카이라이너, 나리타
+        2023-04-25 퀴즈 준비
    
+
+
 
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
