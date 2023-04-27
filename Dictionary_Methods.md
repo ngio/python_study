@@ -46,10 +46,10 @@ https://www.w3schools.com/python/python_dictionaries.asp
 
 https://www.w3schools.com/python/python_dictionaries.asp
 
-thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964,
-  "year": 2020
-}
-print(thisdict) # {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
+    thisdict = {
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 1964,
+      "year": 2020
+    }
+    print(thisdict) # {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
