@@ -42,3 +42,14 @@ https://www.w3schools.com/python/python_dictionaries.asp
     update()	  Updates the dictionary with the specified key-value pairs
     values()	  Returns a list of all the values in the dictionary
     ==============================================================
+
+
+https://www.w3schools.com/python/python_dictionaries.asp
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(thisdict) # {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
