@@ -53,3 +53,14 @@ https://www.w3schools.com/python/python_dictionaries.asp
       "year": 2020
     }
     print(thisdict) # {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
+
+
+    car = {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 1964
+    }
+    x = car.keys()
+    print(x) #before the change
+    car["color"] = "white"
+    print(x) #after the change
