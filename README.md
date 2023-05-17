@@ -81,6 +81,7 @@ https://github.com/gradio-app/gradio
         2023-05-15 다시 라이브러리를 모아야 한다. 
         2023-05-16 31도까지 올라간단다.
         2023-05-17 덥다! 32도.
+        2023-05-18 Linux, python GoGo! 
 
 
 
