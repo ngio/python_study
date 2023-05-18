@@ -82,6 +82,7 @@ https://github.com/gradio-app/gradio
         2023-05-16 31도까지 올라간단다.
         2023-05-17 덥다! 32도.
         2023-05-18 Linux, python GoGo! 
+        2023-05-19 오늘도 좋은 하루 되십시오 🐳
 
 
 
