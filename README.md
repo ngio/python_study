@@ -85,8 +85,9 @@ https://github.com/gradio-app/gradio
         2023-05-19 오늘도 좋은 하루 되십시오 🐳
         2023-05-21 허허
         2023-05-22 not today!
-        2023-05-23 smart english word dictionary 
+        2023-05-23 smart english word dictionary. Standing Core Workout (/img/standing-core-workout.jpg )
 
+/img/standing-core-workout.jpg
 
 
 CoP : 학습공동체
