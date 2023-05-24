@@ -91,6 +91,7 @@ https://github.com/gradio-app/gradio
 Workout : <img src="/img/standing-core-workout.jpg" width="200px" ></img>
 
         2023-05-23 workout 
+        2023-05-24 App Icon Online 
 
 
 CoP : 학습공동체
