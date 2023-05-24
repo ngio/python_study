@@ -89,6 +89,7 @@ https://github.com/gradio-app/gradio
                    <img src="/img/standing-core-workout.jpg" width="200px" ></img>
 
 Workout : <img src="/img/standing-core-workout.jpg" width="200px" ></img>
+Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
 
         2023-05-23 workout 
         2023-05-24 App Icon Online 
