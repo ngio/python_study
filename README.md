@@ -94,6 +94,13 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-05-23 workout 
         2023-05-24 App Icon Online 
                    use_phone_camera/use_phone_camera.py
+        2023-05-25 kym birthday
+        2023-05-26 remind! 마음의소리 내가 최고야! 난 완벽해!
+
+
+
+
+
 
 
 CoP : 학습공동체
