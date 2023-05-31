@@ -29,5 +29,5 @@ python3에서는 유니코드 문자를 식별자로 사용할 수 있습니다.
 
 
 
-
+[** 참고 링크 **](https://sdc-james.gitbook.io/onebook/3./3.3./3.3.3.-identifiers)
 
