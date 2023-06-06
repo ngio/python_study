@@ -104,6 +104,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-02 quit rates
         2023-06-03 2주만에 텃밭. 풀이 무성하다.
         2023-06-05 계속 좋은 날씨~ 
+        2023-06-06 여름인건가?
 
 
 
