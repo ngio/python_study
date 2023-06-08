@@ -106,6 +106,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-05 계속 좋은 날씨~ 
         2023-06-06 여름인건가?
         2023-06-07 요즘은 공부보다 WORKOUT
+        2023-06-09 장마 시작인가? 
 
 
 
