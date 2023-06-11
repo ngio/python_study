@@ -3,6 +3,9 @@ https://www.w3schools.com/python/pandas/default.asp
 
 Pandas is a Python library.
 Pandas is used to analyze data.
+
+https://pypi.org/project/pandas/
+pip install pandas
 """
 
 #import pandas
