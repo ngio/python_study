@@ -10,3 +10,12 @@ Pandas is used to analyze data.
 http://bigdata.dongguk.ac.kr/lectures/Python/_book/pandas.html#pandas-dataframe
 
 
+https://pypi.org/project/pandas/
+
+>> pip install pandas
+
+
+
+
+
+
