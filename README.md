@@ -109,6 +109,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-09 장마 시작인가? 
         2023-06-10 simple colored (/Basic/colored_output.py)
         2023-06-13 pandas, numpy
+        2023-06-14 해솔이 구내염으로 emergency
 
 
 
