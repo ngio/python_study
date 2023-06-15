@@ -6,7 +6,7 @@ Gradio  <em>Build & share delightful machine learning apps easily</em>
 https://gradio.app/             
 https://github.com/gradio-app/gradio   
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
         2022-05-11 아무것도 못하고 있다. 
         2022-05-27 이제 다시 시작~
