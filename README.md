@@ -115,6 +115,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-16 덥다. 동해로~ 
         2023-06-17 강원도 고성
         2023-06-18 폭염특보! 32° 🔥
+        2023-06-20 긴급상황!!! 
 
 
 
