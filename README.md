@@ -117,6 +117,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-18 폭염특보! 32° 🔥
         2023-06-20 긴급상황!!! 
         2023-06-21 비. rain.
+        2023-06-22 또 다시 시작!
 
 
 
