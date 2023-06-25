@@ -120,6 +120,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-22 또 다시 시작!
         2023-06-23 장마 시작인가
         2023-06-24 그때 알고 있었더라면. 
+        2023-06-26 장마 시작
 
 
 
