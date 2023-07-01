@@ -123,6 +123,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-26 장마 시작
         2023-06-28 곧 7월인가. 
         2023-06-29 web, app, webapp
+        2023-07-01 2023년도 절반이 지났다.
 
 
 
