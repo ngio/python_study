@@ -124,6 +124,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-28 곧 7월인가. 
         2023-06-29 web, app, webapp
         2023-07-01 2023년도 절반이 지났다.
+        2023-07-02 회사일이 바쁘니 아무 생각이 없다. 뭔가 해야한다. 
 
 
 
