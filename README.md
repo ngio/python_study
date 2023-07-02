@@ -125,10 +125,10 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-06-29 web, app, webapp
         2023-07-01 2023년도 절반이 지났다.
         2023-07-02 회사일이 바쁘니 아무 생각이 없다. 뭔가 해야한다. 
+        2023-07-03 구글, 캐나다 뉴스 서비스 철수  
 
 
-
-
+[구글도 캐나다에서 '뉴스 서비스' 중단](https://www.cbc.ca/news/canada/google-facebook-canadian-news-1.6894029)
 
 
 
