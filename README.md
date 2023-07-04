@@ -88,7 +88,6 @@ https://github.com/gradio-app/gradio
         2023-05-21 허허
         2023-05-22 not today!
         2023-05-23 smart english word dictionary. Standing Core Workout (/img/standing-core-workout.jpg )
-                   <img src="/img/standing-core-workout.jpg" width="200px" ></img>
 
 Workout : <img src="/img/standing-core-workout.jpg" width="200px" ></img>
 Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
