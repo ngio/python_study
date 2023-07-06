@@ -128,6 +128,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
 [구글도 캐나다에서 '뉴스 서비스' 중단](https://www.cbc.ca/news/canada/google-facebook-canadian-news-1.6894029)
         
         2023-07-04 오픈이 많다.
+        2023-07-06 장마는 어디로? 
 
 
 
