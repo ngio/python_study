@@ -16,7 +16,7 @@ Community Material Theme
 
 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-Korean Language Pack for Visual Studio Code
+VS Code용 한국어 팩 [Korean Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko)
 
 Material Theme
 
