@@ -127,11 +127,14 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
         2023-07-03 구글, 캐나다 뉴스 서비스 철수  
 [구글도 캐나다에서 '뉴스 서비스' 중단](https://www.cbc.ca/news/canada/google-facebook-canadian-news-1.6894029)
         
-        2023-07-04 오픈이 많다.
-        2023-07-06 장마는 어디로? 
-        2023-07-07 7월 7일. 뭔가 행운이 있는 날인가? 아침에 이미 하나를 놓친걸 보니. 
+    2023-07-04 오픈이 많다.
+    2023-07-06 장마는 어디로? 
+    2023-07-07 7월 7일. 뭔가 행운이 있는 날인가? 아침에 이미 하나를 놓친걸 보니. 
+                   Thread 출시
 
-
+Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.barcelona) [iOS](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002﻿)
+         
+    2023-07-07 스레드 
 
 
 
