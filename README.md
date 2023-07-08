@@ -135,6 +135,7 @@ Workout : <img src="/img/UpwardDownwardDog.gif" width="200px" ></img>
 Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.barcelona) [iOS](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002﻿)
          
     2023-07-07 스레드 
+    2023-07-08 김포곤충농장 체험
 
 
 
