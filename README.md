@@ -138,6 +138,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-07-08 김포곤충농장 체험
     2023-07-09 다시 비가 많이 온다. 
     2023-07-11 계속 장마.continued rainy season.🌧 ⛈
+    2023-07-13 일에 쫓기면 안되는데. 열심히 해보자!
 
 
 
