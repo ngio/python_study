@@ -16,3 +16,5 @@ https://sdc-james.gitbook.io/onebook/
 
 https://wikidocs.net/book/1
 
+[Django Tutorial](https://www.w3schools.com/django/index.php) - https://www.w3schools.com/django/index.php
+
