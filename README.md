@@ -141,6 +141,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-07-13 일에 쫓기면 안되는데. 열심히 해보자!
     2023-07-14 비, 비, 비
     2023-07-15 루틴. 계획, 목표. 
+    2023-07-17 삶, 용기.  안전한 길이 가장 위험한 길이다.
 
 
 
