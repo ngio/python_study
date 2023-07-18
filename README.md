@@ -143,6 +143,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-07-15 루틴. 계획, 목표. 
     2023-07-17 삶, 용기.  안전한 길이 가장 위험한 길이다.
     2023-07-18 태도. 태도가 중요하다. 태도가 좋으면 언젠가 실력도 좋아질 수 있다.
+    2023-07-19 간만에 맑음. 🌞 
 
 
 
