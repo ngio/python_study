@@ -147,6 +147,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-07-20 폭염
     2023-07-21 장마 끝인건가요
     2023-07-22 번데기
+    2023-07-23 다시 장마인가요. 폭우 시작
 
 
 
