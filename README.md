@@ -151,6 +151,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-07-25 自利利他. 先義後利.
     2023-07-26 Fate! 
     2023-07-27 Method, Function.
+    2023-07-28 bookclub
 
 
 
