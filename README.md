@@ -159,6 +159,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-08-04 나이답게 행동하자.
     2023-08-05 폭염 계속~~~
     2023-08-06 여름안에서
+    2023-08-07 이제 여름이 절정인가. 
 
 
         
