@@ -1,6 +1,6 @@
-## Ex 3-2. 어플리케이션 아이콘 넣기.
-## Ex 3-3. 창 닫기.
-## Ex 3-4. 툴팁 나타내기.
+## Ex 3-2. 어플리케이션 아이콘 넣기. QIcon
+## Ex 3-3. 창 닫기.  QPushButton
+## Ex 3-4. 툴팁 나타내기.QToolTip
 
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
