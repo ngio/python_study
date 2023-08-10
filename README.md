@@ -160,6 +160,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-08-05 폭염 계속~~~
     2023-08-06 여름안에서
     2023-08-07 이제 여름이 절정인가. 
+    2023-08-10 태풍 카눈 상륙 Typhoon Khanun Landing 🌀🌀🌀
 
 
         
