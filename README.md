@@ -1,6 +1,9 @@
 # python_study 🐍
 python, konply, numpy, matplotlib, networkx, pandas, Gradio
 
+
+<img src="./img/python-logo-generic.svg"  >  
+
 Gradio  <em>Build & share delightful machine learning apps easily</em>
 
 https://gradio.app/             
