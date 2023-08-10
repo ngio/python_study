@@ -1,4 +1,4 @@
-# python_study
+# python_study 🐍
 python, konply, numpy, matplotlib, networkx, pandas, Gradio
 
 Gradio  <em>Build & share delightful machine learning apps easily</em>
