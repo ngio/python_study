@@ -1,9 +1,9 @@
-## Ex 3-2. 어플리케이션 아이콘 넣기. QIcon
+## Ex 3-2. 어플리케이션 아이콘 넣기. QIcon  https://wikidocs.net/21853
 ## Ex 3-3. 창 닫기.  QPushButton
 ## Ex 3-4. 툴팁 나타내기.QToolTip
 ## Ex 3-5. 상태바 만들기.  QMainWindow
 ## Ex 3-6. 메뉴바 만들기.   QAction, qApp
-## Ex 3-7. 툴바 만들기.
+## Ex 3-7. 툴바 만들기.  https://wikidocs.net/21932  * https://doc.qt.io/qt-5/qtoolbar.html
 
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
