@@ -25,6 +25,8 @@ PyInstaller는 실행하는 macOS 릴리스 및 후속 릴리스와 호환되는
 자세한 내용은 macOS 다중 아키텍처 지원을 참조하세요 .
 
 
+Official site : https://pyinstaller.org/en/stable/# <img src="https://pyinstaller.org/en/stable/_static/pyinstaller-draft1a-100_trans.png" >
+
 
 
 
