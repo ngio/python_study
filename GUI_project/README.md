@@ -18,6 +18,8 @@ Qt Designer Manual  https://doc.qt.io/qt-5/qtdesigner-manual.html
 
 
 
+Official site : https://pyinstaller.org/en/stable/# <img src="https://pyinstaller.org/en/stable/_static/pyinstaller-draft1a-100_trans.png" >
+
 
 Qt 는 최신 데스크톱 및 모바일 시스템의 여러 측면에 액세스하기 
 
