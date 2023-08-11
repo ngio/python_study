@@ -9,6 +9,7 @@ PyQt5 - Comprehensive Python Bindings for Qt v5
 
 https://pypi.org/project/PyQt5/
 
+[Qt Style Sheets Reference](https://doc.qt.io/qt-5/stylesheet-reference.html)
 
 Qt 는 최신 데스크톱 및 모바일 시스템의 여러 측면에 액세스하기 
 
