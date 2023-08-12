@@ -166,6 +166,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-08-10 태풍 카눈 상륙 Typhoon Khanun Landing 🌀🌀🌀
     2023-08-11 Gold曜日은 언제나 기다려지는 요일. 
     2023-08-12 Uljin
+    2023-08-12 아하
 
 
         
