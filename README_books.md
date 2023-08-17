@@ -18,3 +18,8 @@ https://wikidocs.net/book/1
 
 [Django Tutorial](https://www.w3schools.com/django/index.php) - https://www.w3schools.com/django/index.php
 
+<img src="https://wikidocs.net/images//book/cover_2tGPBMt.png" >
+[PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - https://wikidocs.net/book/2165
+
+<br>
+<img src="https://wikidocs.net/images//book/Qt_for_beginner-01.jpg" > [초보자를 위한 Python GUI 프로그래밍 - PyQt5](https://wikidocs.net/book/2944)
