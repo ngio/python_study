@@ -171,6 +171,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-08-15 다시 서울
     2023-08-16 Vorwärts, vorwärts! 
     2023-08-17 chatGPT로 ~ 
+    2023-08-19 아직 여름. 주말이다.
 
 
         
