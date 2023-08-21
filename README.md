@@ -173,6 +173,7 @@ Threads [Android](https://play.google.com/store/apps/details?id=com.instagram.ba
     2023-08-17 chatGPT로 ~ 
     2023-08-19 아직 여름. 주말이다.
     2023-08-20 GUI 진행 중 
+    2023-08-21 느림의 미학은 월요일 출근길엔 넣어둬~ 
 
 
         
