@@ -16,7 +16,7 @@ Qt for Python Documentation  https://doc.qt.io/qtforpython/index.html
 
 Qt Designer Manual  https://doc.qt.io/qt-5/qtdesigner-manual.html
 
-[Python tkinter 강좌 : ](https://076923.github.io/posts/Python-tkinter-1/?target=_blank){:target="_blank"} 
+[Python tkinter 강좌 : ](https://076923.github.io/posts/Python-tkinter-1/)  
 [예제](/GUI_project/tk_gui_label.py)
 <br> 
 
