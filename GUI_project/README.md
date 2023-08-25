@@ -18,7 +18,9 @@ Qt Designer Manual  https://doc.qt.io/qt-5/qtdesigner-manual.html
 
 [Python tkinter 강좌 : ](https://076923.github.io/posts/Python-tkinter-1/){:target="_blank"} 
 [예제](/GUI_project/tk_gui_label.py)
-
+<br>
+[Hello, world!](http://example.com/){target="_blank"}
+<br>
 Official site : https://pyinstaller.org/en/stable/# <img src="https://pyinstaller.org/en/stable/_static/pyinstaller-draft1a-100_trans.png" >
 
 
