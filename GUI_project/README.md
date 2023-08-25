@@ -16,8 +16,7 @@ Qt for Python Documentation  https://doc.qt.io/qtforpython/index.html
 
 Qt Designer Manual  https://doc.qt.io/qt-5/qtdesigner-manual.html
 
-Python tkinter 강좌 : https://076923.github.io/posts/Python-tkinter-1/
-<br>
+[Python tkinter 강좌 : ](https://076923.github.io/posts/Python-tkinter-1/) 
 [예제](/GUI_project/tk_gui_label.py)
 
 Official site : https://pyinstaller.org/en/stable/# <img src="https://pyinstaller.org/en/stable/_static/pyinstaller-draft1a-100_trans.png" >
