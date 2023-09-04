@@ -35,7 +35,7 @@ CoP : 학습공동체
  * 참고교재: 모두의 파이썬(20일 만에 배우는 프로그래밍 기초)  https://thebook.io/007026/
             길벗 예제 - https://www.gilbut.co.kr/book/view?bookcode=BN002243#bookData
 
-        
+한곳에서 끝내는 파이썬 & 머신러닝 & 딥러닝 https://sdc-james.gitbook.io/onebook/        
         
 2022-11-18
 1주차 주제 : 엑셀이 없던 시절, 그 이후 
