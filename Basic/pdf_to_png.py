@@ -1,4 +1,7 @@
-import fitz  # PyMuPDF
+# PyMuPDF
+# pip install PyMuPDF 
+
+import fitz  
 
 
 # 2023-05-26 ngio add
