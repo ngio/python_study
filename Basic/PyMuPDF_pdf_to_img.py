@@ -1,10 +1,10 @@
-PyMuPDF로 코딩 없이 PDF에서 이미지 추출
+# PyMuPDF로 코딩 없이 PDF에서 이미지 추출
 
 
-PyMuPDF
+# PyMuPDF
 
 
-pip install PyMuPDF
+# pip install PyMuPDF
 
 
 
@@ -16,5 +16,5 @@ for i, page in enumerate(doc):
 
 
 
-
-python -m fitz extract -images input.pdf
+# Command 로 바로 실행하기 
+# python -m fitz extract -images input.pdf
