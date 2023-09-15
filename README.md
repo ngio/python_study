@@ -4,6 +4,9 @@ python, konply, numpy, matplotlib, networkx, pandas, Gradio
 
 <img src="./img/python-logo-generic.svg"  >  
 
+Kivy https://kivy.org/ 
+https://wikidocs.net/book/8263
+
 Gradio  <em>Build & share delightful machine learning apps easily</em>
 
 https://gradio.app/             
