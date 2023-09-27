@@ -7,7 +7,7 @@ Types of Algorithm
     Sorting
     Recursive
     Backtracking
-    Greedy
+    Greedy  
     Randomized
     Divide & Conquer
     Dynamic Programing
