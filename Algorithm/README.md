@@ -13,6 +13,8 @@ Types of Algorithm
     Dynamic Programing
 
 
+Sorting : ﻿https://modulabs.co.kr/blog/algorithm-python/
+
 https://www.instagram.com/p/CxZgarwyv_2/?igshid=MjNiZGVkZTJkZQ%3D%3D
 
 
