@@ -1,4 +1,4 @@
-# 정렬 알고리즘 : https://modulabs.co.kr/blog/algorithm-python/
+# 정렬/탐색 알고리즘 : https://modulabs.co.kr/blog/algorithm-python/
 
 import random
 
