@@ -26,25 +26,32 @@ print('Maximum color range',img.max())
 
 
 #Converting image to greyscale
-plt.imshow(img,cmap='gray')
-plt.title('Black and white imege')
-plt.show()
+#plt.imshow(img,cmap='gray')
+#plt.title('Black and white imege')
+#plt.show()
 
 #Inverting the image
 inv=255-img
-plt.title('Inverted imege')
-plt.imshow(inv,cmap='gray')
-plt.show()
+#plt.title('Inverted imege')
+#plt.imshow(inv,cmap='gray')
+#plt.show()
 
-#Applying Gaussian blur to smooth out the image
+##Applying Gaussian blur to smooth out the image
 gblur=cv2.GaussianBlur(inv,ksize=(21,21),sigmaX=0,sigmaY=0)
-plt.title('Imege after Gaussian blur applied')
-plt.imshow(gblur,cmap='gray')
-plt.show()
+#plt.title('Imege after Gaussian blur applied')
+#plt.imshow(gblur,cmap='gray')
+#plt.show()
 
-#Color Dodging and burning (Final pencil sketch output)
+##Color Dodging and burning (Final pencil sketch output)
 dodge= lambda image,mask: cv2.divide(image,255-mask,scale=256)
 blended=dodge(img,gblur)
 plt.title('Pencil sketch of image')
 plt.imshow(blended,cmap='gray')
+
+# Save the image as a PNG file
+plt.savefig("dog_sketch.png", dpi=200)
+
 plt.show()
+
+
+
