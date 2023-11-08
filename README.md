@@ -16,7 +16,7 @@ https://github.com/gradio-app/gradio
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
-Turtle : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.md
+Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.md
 
 
 CoP : 학습공동체
