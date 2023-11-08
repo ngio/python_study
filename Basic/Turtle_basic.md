@@ -22,3 +22,14 @@ It’s an effective and well-proven way for learners to encounter programming co
 Turtle drawing was originally created as an educational tool, to be used by teachers in the classroom. For the programmer who needs to produce some graphical output it can be a way to do that without the overhead of introducing more complex or external libraries into their work.
 
 
+    from turtle import Turtle
+    from random import random
+    
+    t = Turtle()
+    for i in range(100):
+        steps = int(random() * 100)
+        angle = int(random() * 360)
+        t.right(angle)
+        t.fd(steps)
+    
+    t.screen.mainloop()
