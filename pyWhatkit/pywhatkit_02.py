@@ -12,14 +12,10 @@ os.chdir(real_path)
 import pywhatkit as kit
 
 # Replace 'input_image.jpg' with the path to your image file
-#input_image_path = './python-logo-only.png'
-#input_image_path = './profileImage.jpg'
-input_image_path = './3784942.jpg'
+input_image_path = './python-logo-only.png'
 
 # Replace 'output_ascii_art.txt' with the desired output text file
-# output_text_file = './output_ascii_art.txt'
-#output_text_file = './profileImage_ascii_art'
-output_text_file = './3784942_ascii_art'
+output_text_file = './python-logo-only'
 
 # Specify the character width (columns) for the ASCII art
 #char_width = 100
