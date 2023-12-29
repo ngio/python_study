@@ -2,6 +2,10 @@
 
 
 
+    2023-12-29 고향사랑e음 기부 - 남해군 - https://www.ilovegohyang.go.kr/items/details-main.html?code=G2000015206
+
+[경남 남해군]해녀가 삶아주는 자숙돌문어 1kg<br>
+https://www.ilovegohyang.go.kr/items/details-main.html?code=G2000015206
 
     2023-12-28 2023년도 이렇게 끝나는구나~ 
     2023-12-27 두둥!
