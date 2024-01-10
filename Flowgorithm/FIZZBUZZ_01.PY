@@ -35,7 +35,7 @@ def fizzbuzz_extended(n, additional={}):
     base = {3: 'Fizz', 5: 'Buzz'}
     base.update(additional)
     out = ''
-    for x in sorted(base.iterkeys()):
+    for x in sorted(base):
         if not n % x:
             out += base[x]
     if not out:
@@ -45,11 +45,13 @@ def fizzbuzz_extended(n, additional={}):
 
 if __name__ == '__main__':
     print("FizzBuzz Produces:")
-    for i in xrange(100):
-        print(fizzbuzz(i), end=" ")
+    for i in range(100):
+        #print(fizzbuzz(i), end=" ")
+        print(fizzbuzz(i))
     print()
     others = {7: 'Sizz', 11: 'Elzz'}
-    for i in xrange(100):
-        print(fizzbuzz_extended(i, others), end=" ")
+    for i in range(100):
+        #print(fizzbuzz_extended(i, others), end=" ")
+        print(fizzbuzz_extended(i, others))
     print()
 
