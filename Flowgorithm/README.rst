@@ -2,6 +2,8 @@
 FizzBuzz
 ********
 
+참고 : https://github.com/cewing/fizzbuzz
+
 .. image:: https://travis-ci.org/cewing/fizzbuzz.svg?branch=master
     :target: https://travis-ci.org/cewing/fizzbuzz
 
