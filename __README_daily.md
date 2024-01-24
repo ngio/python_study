@@ -1,9 +1,9 @@
 
 
-   
-   2024-01-23 영하 14도. 겁나 춥다!
-   2024-01-13 함수 만들기 python 
-   2024-01-12 봄날같은 날씨가 이어지는데, Keep going~ 
+    2024-01-24 애플 비전 프로가 인가가 많다는군. 
+    2024-01-23 영하 14도. 겁나 춥다!
+    2024-01-13 함수 만들기 python 
+    2024-01-12 봄날같은 날씨가 이어지는데, Keep going~ 
    
    2024-01-11 생각이 늙는 걸 경계하라 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbGQ9JW%2FbtsDj20hCwL%2FPjjEbQKCDK58aewSUckIgK%2Fimg.jpg" style="width:100px;" ><br>
     2024-01-10 흐림
