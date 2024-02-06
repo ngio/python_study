@@ -1,7 +1,7 @@
 
 
-pip install matplotlib 
-pip pandas install
+  pip install matplotlib 
+  pip install pandas
 
 
 
