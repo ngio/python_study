@@ -7,8 +7,12 @@ python, konply, numpy, matplotlib, networkx, pandas, Gradio
 Kivy https://kivy.org/ 
 https://wikidocs.net/book/8263
 
+[Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
+
 
 [PYTHON OCR 이미지 to 텍스트, image to Text](https://github.com/ngio/python_study/blob/main/pytesseract_image_to_text.py)
+
+
 
 
 Gradio  <em>Build & share delightful machine learning apps easily</em>
