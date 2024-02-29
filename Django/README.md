@@ -1,9 +1,8 @@
 
 djangorestframework 3.14.0
 
-
-![image](https://github.com/ngio/python_study/assets/3784942/be153c83-6629-461a-8bf9-b8448474e855)
-
+![image](https://github.com/ngio/python_study/assets/3784942/f5257c7d-b6a9-4b65-98c2-b62aa50d6321)
+ 
 
 https://www.django-rest-framework.org/
 
