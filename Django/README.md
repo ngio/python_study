@@ -1,6 +1,14 @@
 
 djangorestframework 3.14.0
 
+
+![image](https://github.com/ngio/python_study/assets/3784942/be153c83-6629-461a-8bf9-b8448474e855)
+
+
+https://www.django-rest-framework.org/
+
+
+
 *** 참고 : https://towardsdatascience.com/designing-and-deploying-a-machine-learning-python-application-part-2-99eb37787b2b
 
 [https://pypi.org/project/djangorestframework/](https://pypi.org/project/djangorestframework/)
