@@ -1,6 +1,8 @@
 
 djangorestframework 3.14.0
 
+*** 참고 : https://towardsdatascience.com/designing-and-deploying-a-machine-learning-python-application-part-2-99eb37787b2b
+
 [https://pypi.org/project/djangorestframework/](https://pypi.org/project/djangorestframework/)
 
 pip install djangorestframework
