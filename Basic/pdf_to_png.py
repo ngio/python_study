@@ -1,7 +1,7 @@
 # PyMuPDF
 # pip install PyMuPDF 
 
-import fitz  
+import fitz  # PyMuPDF
 
 
 # 2023-05-26 ngio add
@@ -19,7 +19,7 @@ directory_base = str(real_path)+"./ONE/"  # 경로object를 문자열로 변경�
  
 
 
-def pdf_to_png(pdf_file, input_pdf_name, output_folder):
+def pdf_to_png(pdf_file, input_pdf_name, output_folder, dpi = 300):
     # Open the PDF file
     pdf_document = fitz.open(pdf_file)
     
@@ -28,7 +28,8 @@ def pdf_to_png(pdf_file, input_pdf_name, output_folder):
         page = pdf_document[page_number]
         
         # Convert the page to an image
-        image = page.get_pixmap()
+        # image = page.get_pixmap()
+        image = page.get_pixmap(dpi = dpi)
         
         # Save the image as a PNG file
         image.save(f"{output_folder}/{input_pdf_name}_{page_number + 1}.png", "png")
@@ -50,6 +51,7 @@ if __name__ == "__main__":
         input_pdf_name = os.path.splitext(file)[0]
         print(input_pdf_name)
         output_folder  = "./ONE/data"  # Replace with your output folder
-        
-        pdf_to_png(input_pdf, input_pdf_name, output_folder)
+        dpi = 600
+     
+        pdf_to_png(input_pdf, input_pdf_name, output_folder, dpi)
    
