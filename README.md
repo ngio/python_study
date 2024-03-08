@@ -13,6 +13,7 @@ https://wikidocs.net/book/8263
 [PYTHON OCR 이미지 to 텍스트, image to Text](https://github.com/ngio/python_study/blob/main/pytesseract_image_to_text.py)
 
 
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 
 Gradio  <em>Build & share delightful machine learning apps easily</em>
