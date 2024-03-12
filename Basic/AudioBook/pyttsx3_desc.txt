@@ -1,0 +1,12 @@
+pyttsx3
+
+https://pypi.org/project/pyttsx3/
+
+Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.
+
+
+>> pip install pyttsx3
+
+
+
+
