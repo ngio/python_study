@@ -7,28 +7,37 @@ https://wikidocs.net/15213
     영어는 여자 성우, 한글은 남자 성우이다(변경 불가능)
 """
 
+
+https://pypi.org/project/gTTS/
+
+
+gTTS (Google Text-to-Speech)
+, a Python library and CLI tool to interface with Google Translate’s text-to-speech API. 
+Writes spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, 
+ or stdout. It features flexible pre-processing and tokenizing.
+
     
-          from gtts import gTTS
-          import pygame
-          import time
-          
-          text = "안녕하세요, 여러분. 파이썬으로 노는 것은 재미있습니다!!!"
-          
-          # Create gTTS object and save the audio file
-          tts = gTTS(text=text, lang='ko')
-          tts.save("helloKO.mp3")
-          
-          # Initialize Pygame mixer
-          pygame.mixer.init()
-          
-          # Load the audio file
-          pygame.mixer.music.load("helloKO.mp3")
-          
-          # Play the audio file
-          pygame.mixer.music.play()
-          
-          # Allow time for the audio to play
-          time.sleep(10)
-          
-          # Stop the playback
-          pygame.mixer.music.stop()
+    from gtts import gTTS
+    import pygame
+    import time
+    
+    text = "안녕하세요, 여러분. 파이썬으로 노는 것은 재미있습니다!!!"
+    
+    # Create gTTS object and save the audio file
+    tts = gTTS(text=text, lang='ko')
+    tts.save("helloKO.mp3")
+    
+    # Initialize Pygame mixer
+    pygame.mixer.init()
+    
+    # Load the audio file
+    pygame.mixer.music.load("helloKO.mp3")
+    
+    # Play the audio file
+    pygame.mixer.music.play()
+    
+    # Allow time for the audio to play
+    time.sleep(10)
+    
+    # Stop the playback
+    pygame.mixer.music.stop()
