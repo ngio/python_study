@@ -34,6 +34,7 @@ print(sentence2)
 print(sentence == sentence2)
 # True
 
+
 # 자음만 추출
 def extract_vowels(text):
     vowels = set(['ㅏ', 'ㅑ', 'ㅓ', 'ㅕ', 'ㅗ', 'ㅛ', 'ㅜ', 'ㅠ', 'ㅡ', 'ㅣ', 'ㅐ', 'ㅒ', 'ㅔ', 'ㅖ', 'ㅘ', 'ㅙ', 'ㅚ', 'ㅝ', 'ㅞ', 'ㅟ', 'ㅢ'])
@@ -49,6 +50,8 @@ def extract_vowels(text):
 sentence = u"앞 집 팥죽은 붉은 팥 풋팥죽이고, 뒷집 콩죽은 햇콩 단콩 콩죽.우리 집  깨죽은 검은 깨 깨죽인데 사람들은 햇콩 단콩 콩죽 깨죽 죽먹기를 싫어하더라."
 vowels_only = extract_vowels(sentence)
 print(vowels_only)
+# ㅏㅣㅏㅜㅡㅜㅡㅏㅜㅏㅜㅣㅗㅟㅣㅗㅜㅡㅐㅗㅏㅗㅗㅜㅜㅣㅣㅐㅜㅡㅓㅡㅐㅐㅜㅣㅔㅏㅏㅡㅡㅐㅗㅏㅗㅗㅜㅐㅜㅜㅓㅣㅡㅣㅓㅏㅓㅏ
+
 
 # 모음만 추출 
 def extract_consonants(text):
@@ -65,3 +68,5 @@ def extract_consonants(text):
 sentence = u"앞 집 팥죽은 붉은 팥 풋팥죽이고, 뒷집 콩죽은 햇콩 단콩 콩죽.우리 집  깨죽은 검은 깨 깨죽인데 사람들은 햇콩 단콩 콩죽 깨죽 죽먹기를 싫어하더라."
 consonants_only = extract_consonants(sentence)
 print(consonants_only)
+# ㅇㅍㅈㅂㅍㅌㅈㄱㅇㄴㅂㅇㄴㅍㅌㅍㅅㅍㅌㅈㄱㅇㄱㄷㅅㅈㅂㅋㅇㅈㄱㅇㄴㅎㅅㅋㅇㄷㄴㅋㅇㅋㅇㅈㄱㅇㄹㅈㅂㄲㅈㄱㅇㄴㄱㅁㅇㄴㄲㄲㅈㄱㅇㄴㄷㅅㄹㅁㄷㄹㅇㄴㅎㅅㅋㅇㄷㄴㅋㅇㅋㅇㅈㄱㄲㅈㄱㅈㄱㅁㄱㄱㄹㄹㅅㅇㅎㄷㄹ
+
