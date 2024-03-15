@@ -31,10 +31,14 @@ A library for Korean Jamo split and vectorize.  한국어 Jamo를 분할하고 �
 
 API for split syllables and join jamos to syllable is based on hangul-utils.
 
-    split_syllables: Converts a string of syllables to a string of jamos, can be select which convert unicode type.
-    
-    join_jamos: Converts a string of jamos to a string of syllables.
-    
+    split_syllables: Converts a string of syllables to a string of jamos, can be select which convert unicode type.    
+    join_jamos: Converts a string of jamos to a string of syllables.    
     normalize_to_compat_jamo: Normalize a string of jamos to a string of Hangul Compatibility Jamo.
+
+음절 분할 및 jamos를 음절에 결합하는 API는 hangul-utils 를 기반으로 합니다 .
+
+    Split_syllables : 음절 문자열을 jamos 문자열로 변환하고 유니코드 유형을 변환하도록 선택할 수 있습니다.
+    Join_jamos : jamos 문자열을 음절 문자열로 변환합니다.
+    Normalize_to_compat_jamo : jamos 문자열을 한글 호환성 Jamo 문자열로 정규화합니다 .
 
 .
