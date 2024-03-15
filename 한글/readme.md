@@ -19,5 +19,14 @@ Github : https://github.com/jdongian/python-jamo
     원래 학생들이 (ㅔ,ㅐ) 또는 (ㅗ,ㅜㅜ)가 포함된 철자하기 어려운 단어를 식별할 수 있도록 돕기 위해 고안된 이 프로젝트는 한국어 음성 및 철자 분석의 틈새를 채우고자 합니다.
 
 
+---
+
+pip install jamotools
+
+https://pypi.org/project/jamotools/
+
+A library for Korean Jamo split and vectorize.  한국어 Jamo를 분할하고 벡터화하는 라이브러리입니다.
+
+![image](https://github.com/ngio/python_study/assets/3784942/b2b6cd18-3344-405d-89b2-570663f2addc)
 
 .
