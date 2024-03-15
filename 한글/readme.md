@@ -29,4 +29,12 @@ A library for Korean Jamo split and vectorize.  한국어 Jamo를 분할하고 �
 
 ![image](https://github.com/ngio/python_study/assets/3784942/b2b6cd18-3344-405d-89b2-570663f2addc)
 
+API for split syllables and join jamos to syllable is based on hangul-utils.
+
+    split_syllables: Converts a string of syllables to a string of jamos, can be select which convert unicode type.
+    
+    join_jamos: Converts a string of jamos to a string of syllables.
+    
+    normalize_to_compat_jamo: Normalize a string of jamos to a string of Hangul Compatibility Jamo.
+
 .
