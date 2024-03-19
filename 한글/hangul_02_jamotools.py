@@ -70,3 +70,7 @@ consonants_only = extract_consonants(sentence)
 print(consonants_only)
 # ㅇㅍㅈㅂㅍㅌㅈㄱㅇㄴㅂㅇㄴㅍㅌㅍㅅㅍㅌㅈㄱㅇㄱㄷㅅㅈㅂㅋㅇㅈㄱㅇㄴㅎㅅㅋㅇㄷㄴㅋㅇㅋㅇㅈㄱㅇㄹㅈㅂㄲㅈㄱㅇㄴㄱㅁㅇㄴㄲㄲㅈㄱㅇㄴㄷㅅㄹㅁㄷㄹㅇㄴㅎㅅㅋㅇㄷㄴㅋㅇㅋㅇㅈㄱㄲㅈㄱㅈㄱㅁㄱㄱㄹㄹㅅㅇㅎㄷㄹ
 
+
+# 초성만 추출 
+
+
