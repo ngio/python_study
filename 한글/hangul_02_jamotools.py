@@ -72,5 +72,16 @@ print(consonants_only)
 
 
 # 초성만 추출 
+def extract_initial_consonants(text):
+    result = ''
+    for char in text:
+        if '가' <= char <= '힣':  # Check if the character is Hangul
+            initial_consonant = jamotools.split_syllable_char(char)[0]
+            result += initial_consonant
+    return result
+
+sentence = u"앞 집 팥죽은 붉은 팥 풋팥죽이고, 뒷집 콩죽은 햇콩 단콩 콩죽.우리 집  깨죽은 검은 깨 깨죽인데 사람들은 햇콩 단콩 콩죽 깨죽 죽먹기를 싫어하더라."
+initial_consonants_only = extract_initial_consonants(sentence)
+print(initial_consonants_only)
 
 
