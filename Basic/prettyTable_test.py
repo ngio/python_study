@@ -43,6 +43,12 @@ print(" 지정 컬럼만 노출, 모서리 *로 변경  ")
 # Printing Only Specific Columns:
 print(table.get_string(fields=["Name", "City"]))
 
+# HTML 형식으로 테이블 표시
+# PrettyTable은 HTML 형식으로 테이블을 인쇄합니다 <table>. ASCII 형식과 마찬가지로 실제로 문자열 표현을 얻을 수 있습니다 
+# get_html_string(). . HTML 인쇄는 ASCII 인쇄 와 동일한 방식으로 fields, start, 및 인수를 지원합니다.
+
+print('\n\n',table.get_html_string(attributes={"id":"my_table", "class":"red_table"}))
+
 
 # Changing the Style of the Table:
 # Customizing the table's appearance
