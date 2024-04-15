@@ -20,4 +20,7 @@ Turtle drawing was originally created as an educational tool, to be used by teac
 
 
 [Doraemon](./Doraemon.py)
-![image](https://github.com/ngio/python_study/assets/3784942/d68cb72e-09be-467d-aa25-891ee3399481)
+
+<img src="https://github.com/ngio/python_study/assets/3784942/d68cb72e-09be-467d-aa25-891ee3399481" style="width:150px;" >
+    
+    ![image](https://github.com/ngio/python_study/assets/3784942/d68cb72e-09be-467d-aa25-891ee3399481)
