@@ -10,4 +10,8 @@ Live editing: See your app update instantly as you edit your script.
 Open-source and free: Join a vibrant community and contribute to Streamlit's future.
 Installation
 Open a terminal and run:
+    
+    $ pip install streamlit
+    $ streamlit hello
+
 
