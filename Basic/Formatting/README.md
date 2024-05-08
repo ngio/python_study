@@ -3,10 +3,10 @@ Python에서 문자열을 포맷하는 방법은 다양하게 제공됩니다. �
 1. % 포맷팅 (Old Style)
 % 연산자를 사용하여 문자열 포맷팅을 수행하는 방식으로, C 언어의 printf 함수와 유사합니다. % 기호 뒤에 포맷 문자열을 사용하여 변수 값을 문자열에 삽입할 수 있습니다.
 
-      name = "Alice"
-      age = 30
-      formatted_string = "Name: %s, Age: %d" % (name, age)
-      print(formatted_string)
+       name = "Alice"
+       age = 30
+       formatted_string = "Name: %s, Age: %d" % (name, age)
+       print(formatted_string)
       
       %s: 문자열(string)
       %d: 정수(integer)
@@ -16,10 +16,10 @@ Python에서 문자열을 포맷하는 방법은 다양하게 제공됩니다. �
 2. str.format() 메서드 (str.format() Method)
 str.format() 메서드를 사용하여 문자열을 포맷할 수 있습니다. 중괄호 {} 안에 인덱스나 변수명을 넣어 값을 삽입할 수 있습니다.
 
-    name = "Bob"
-    age = 25
-    formatted_string = "Name: {}, Age: {}".format(name, age)
-    print(formatted_string)
+       name = "Bob"
+       age = 25
+       formatted_string = "Name: {}, Age: {}".format(name, age)
+       print(formatted_string)
 
 위치 인덱스를 사용한 포맷팅: "Name: {0}, Age: {1}".format(name, age)
 변수명을 사용한 포맷팅: "Name: {name}, Age: {age}".format(name=name, age=age)
@@ -28,10 +28,10 @@ str.format() 메서드를 사용하여 문자열을 포맷할 수 있습니다. 
 Python 3.6부터 도입된 f-문자열은 가독성과 사용 편의성을 제공합니다. 문자열 앞에 f 또는 F를 붙여 사용하며, 중괄호 {} 안에 변수나 표현식을 사용하여 값을 삽입할 수 있습니다.
 
  
-    name = "Charlie"
-    age = 35
-    formatted_string = f"Name: {name}, Age: {age}"
-    print(formatted_string)
+       name = "Charlie"
+       age = 35
+       formatted_string = f"Name: {name}, Age: {age}"
+       print(formatted_string)
 
 변수 및 표현식 사용: f"Age next year: {age + 1}"
 
@@ -39,13 +39,13 @@ Python 3.6부터 도입된 f-문자열은 가독성과 사용 편의성을 제�
 string.Template 클래스를 사용하여 간단한 문자열 템플릿을 만들고 치환할 수 있습니다.
 
  
-    from string import Template
+       from string import Template
     
-    name = "David"
-    age = 40
-    template = Template("Name: $name, Age: $age")
-    formatted_string = template.substitute(name=name, age=age)
-    print(formatted_string)
+       name = "David"
+       age = 40
+       template = Template("Name: $name, Age: $age")
+       formatted_string = template.substitute(name=name, age=age)
+       print(formatted_string)
 
 선택적 포맷 지정
 각 포맷 방법은 다양한 선택적 옵션을 제공합니다. 예를 들어, 소수점 이하 자릿수, 정렬, 공백 채우기 등의 옵션을 사용할 수 있습니다.
