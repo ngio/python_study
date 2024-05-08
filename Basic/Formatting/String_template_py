@@ -1,0 +1,14 @@
+# 템플릿 문자열 - string.Template 클래스
+# string.Template 클래스를 사용하여 템플릿 문자열을 정의하고 substitute() 메서드를 호출하여 변수 값을 삽입합니다:
+ 
+import string
+
+name = "Eve"
+age = 45
+template = string.Template("Name: $name, Age: $age")
+formatted_string = template.substitute(name=name, age=age)
+print(formatted_string)
+
+# 템플릿 문자열에서는 $를 사용하여 변수를 표시하고, substitute() 메서드로 변수 값을 지정합니다.
+
+
