@@ -1,0 +1,22 @@
+[python] 변수 scope, LEGB Rule
+
+https://wikidocs.net/16055
+
+
+>>> a = 5    # Global
+>>> b = 10   # Global
+>>> def outer():
+...     a = 10  # outer함수의 local이며, inner함수의 Enclosed
+...     def inner():
+...             c=30 # inner 함수의 local
+...             print(a, b, c)
+...     inner()
+...     a = 22  # outer함수의 local이며, inner함수의 Enclosed
+...     inner()
+... 
+>>> outer()
+10 10 30  
+22 10 30
+
+
+
