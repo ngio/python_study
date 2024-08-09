@@ -6,6 +6,10 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 
 <img src="./img/python-logo-generic.svg"  >  
 
+
+2024-08-09 [python] TIOBE Index for August 2024 Python 1st
+
+
 Kivy https://kivy.org/ 
 https://wikidocs.net/book/8263
 
