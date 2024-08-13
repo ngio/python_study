@@ -1,7 +1,7 @@
+""" Working With The Operating System """
 
-
-1. Navigating File Paths
-To craft and dissect paths, ensuring compatibility across realms (operating systems):
+# 1. Navigating File Paths
+# To craft and dissect paths, ensuring compatibility across realms (operating systems):
 
 import os
 # Craft a path compatible with the underlying OS
@@ -12,16 +12,16 @@ directory = os.path.dirname(path)
 artifact_name = os.path.basename(path)
 
 
-2. Listing Directory Contents
-To reveal all entities within a mystical directory:
+# 2. Listing Directory Contents
+# To reveal all entities within a mystical directory:
 
 import os
 contents = os.listdir('enchanted_grove')
 print(contents)
 
 
-3. Creating Directories
-To conjure new directories within the fabric of the filesystem:
+# 3. Creating Directories
+# To conjure new directories within the fabric of the filesystem:
 
 import os
 # create a single directory
@@ -30,8 +30,8 @@ os.mkdir('alchemy_lab')
 os.makedirs('alchemy_lab/potions/elixirs')
 
 
-4. Removing Files and Directories
-To erase files or directories, banishing their essence:
+# 4. Removing Files and Directories
+# To erase files or directories, banishing their essence:
 
 import os
 # remove a file
@@ -43,8 +43,8 @@ import shutil
 shutil.rmtree('cursed_cavern')
 
 
-5. Executing Shell Commands
-To invoke the shell’s ancient powers directly from Python:
+# 5. Executing Shell Commands
+# To invoke the shell’s ancient powers directly from Python:
 
 import subprocess
 # Invoke the 'echo' incantation
@@ -52,8 +52,8 @@ result = subprocess.run(['echo', 'Revealing the arcane'], capture_output=True, t
 print(result.stdout)
 
 
-6. Working with Environment Variables
-To read and inscribe upon the ethereal environment variables:
+# 6. Working with Environment Variables
+# To read and inscribe upon the ethereal environment variables:
 
 import os
 # Read the 'PATH' variable
@@ -62,16 +62,16 @@ path = os.environ.get('PATH')
 os.environ['MAGIC'] = 'Arcane'
 
 
-7. Changing the Current Working Directory
-To shift your presence to another directory within the filesystem:
+# 7. Changing the Current Working Directory
+# To shift your presence to another directory within the filesystem:
 
 import os
 # Traverse to the 'arcane_library' directory
 os.chdir('arcane_library')
 
 
-8. Path Existence and Type
-To discern the existence of paths and their nature — be they file or directory:
+# 8. Path Existence and Type
+# To discern the existence of paths and their nature — be they file or directory:
 
 import os
 # Check if a path exists
@@ -82,8 +82,8 @@ is_directory = os.path.isdir('mysterious_ruins')
 is_file = os.path.isfile('ancient_manuscript.txt')
 
 
-9. Working with Temporary Files
-To summon temporary files and directories, fleeting and ephemeral:
+# 9. Working with Temporary Files
+# To summon temporary files and directories, fleeting and ephemeral:
 
 import tempfile
 # Create a temporary file
@@ -94,8 +94,8 @@ temp_dir = tempfile.TemporaryDirectory()
 print(temp_dir.name)
 
 
-10. Getting System Information
-To unveil information about the host system, its name, and the enchantments it supports:
+# 10. Getting System Information
+# To unveil information about the host system, its name, and the enchantments it supports:
 
 import os
 import platform
