@@ -35,6 +35,9 @@ https://github.com/gradio-app/gradio
 Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.md
 
 
+![image](https://github.com/user-attachments/assets/49890301-fd8e-4865-984d-61fda72dd12c)
+
+
 CoP : 학습공동체
 [ 學習共同體 , Learning Community , Community of Practice ]
 
