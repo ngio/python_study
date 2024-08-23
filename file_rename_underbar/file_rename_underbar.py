@@ -18,17 +18,26 @@ def replace_spaces_in_filenames(folder_path):
         # 파일 이름에 공백이 있는지, -도 _로 변경 확인
         if ' ' in filename or  '-' in filename:
             # 공백을 언더바로 대체
-            new_filename = filename.replace(' ', '_')
-            new_filename = filename.replace('-', '_')
+            new_filename = filename.replace(' ', '_').replace('-', '_')
             new_file_path = os.path.join(folder_path, new_filename)
 
+            
+            # 파일이 존재할경우 덮어쓸지, 빠져나갈지 
+            if os.path.exists(new_file_path):
+                overwrite = input(f"'{new_file_path}' already exists. Overwrite? (y/n): ")
+                if overwrite.lower() == 'y':
+                    os.remove(new_file_path)
+                else:
+                    print("Operation canceled.")
+                    exit()
             # 파일 이름 변경
             os.rename(old_file_path, new_file_path)
+            
+            
             print(f"Renamed: '{filename}' -> '{new_filename}'")
         else:
             print(f"No change: '{filename}'")
 
 # 사용 예시
-folder_path = 'path_to_your_folder'  # 여기에 폴더 경로를 입력하세요
-folder_path = 'D:\______통합로그인'  # 여기에 폴더 경로를 입력하세요
+folder_path = 'path_to_your_folder'  # 여기에 폴더 경로를 입력하세요 
 replace_spaces_in_filenames(folder_path)
