@@ -16,6 +16,7 @@ os.chdir(real_path)
 # Import the following modules
 from captcha.image import ImageCaptcha
 
+import inc_random_word as RW # inc_random_word.py
 
 """
 주어진 파일명과 확장자를 바탕으로 파일이 중복되지 않는 고유 파일명을 반환하는 함수
@@ -26,7 +27,7 @@ def get_unique_filename(base_name, extension):
     new_filename = f"{base_name}.{extension}"
     
     # 파일명이 중복될 경우 새로운 파일명을 생성
-    while os.path.exists(new_filename):
+    while os.path.exists("./img/"+new_filename):
         new_filename = f"{base_name}_{counter}.{extension}"
         counter += 1
     
@@ -39,6 +40,10 @@ image = ImageCaptcha(width = 280, height = 90)
 # Image captcha text
 captcha_text = 'GeeksforGeeks'
 
+# 함수 호출
+captcha_text = RW.generate_random_string()
+print(f"\n\n랜덤 6자리 문자열: {captcha_text}")
+
 # generate the image of the given text
 data = image.generate(captcha_text) 
 
@@ -49,7 +54,7 @@ data = image.generate(captcha_text)
 unique_filename = get_unique_filename(captcha_text, 'png')
 
 # 이미지 파일을 저장
-image.write(captcha_text, unique_filename)
+image.write(captcha_text, "./img/"+unique_filename)
 
 print(f"이미지가 {unique_filename}으로 저장되었습니다.")
 
