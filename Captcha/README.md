@@ -4,6 +4,9 @@ Generate Captcha Using Python
 [captcha_main_xls.py](captcha_main_xls.py)
 랜던 6영문숫자 생성 후 캡챠 이미지 생성하고, 이미지명은 엑셀에 저장한다. 
 
+[random_word_6.py](random_word_6.py)
+#영문숫자조합  랜덤 6자리 글자 생성하는 함수
+
 
 [https://www.geeksforgeeks.org/generate-captcha-using-python/](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 
