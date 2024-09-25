@@ -1,6 +1,10 @@
 
 Generate Captcha Using Python
 
+[captcha_main_xsl.py](captcha_main_xsl.py)
+랜던 6영문숫자 생성 후 캡챠 이미지 생성하고, 이미지명은 엑셀에 저장한다. 
+
+
 [https://www.geeksforgeeks.org/generate-captcha-using-python/](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 
 
