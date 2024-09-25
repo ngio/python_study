@@ -1,7 +1,7 @@
 
 Generate Captcha Using Python
 
-[captcha_main_xsl.py](captcha_main_xsl.py)
+[captcha_main_xls.py](captcha_main_xls.py)
 랜던 6영문숫자 생성 후 캡챠 이미지 생성하고, 이미지명은 엑셀에 저장한다. 
 
 
