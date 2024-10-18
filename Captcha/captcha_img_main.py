@@ -22,6 +22,8 @@ os.chdir(real_path)
 # 랜덤 6자리 문자열 생성 함수
 def generate_random_string(length=6):
     characters = string.ascii_letters + string.digits  # 영문 대소문자 + 숫자
+    # string.ascii_uppercase: 영문 대문자 A-Z만을 포함합니다.
+    # string.ascii_lowercase: 영문 소문자 a-z만을 포함합니다.
     return ''.join(random.choices(characters, k=length))
 
 # 중복되지 않는 파일명 생성 함수
