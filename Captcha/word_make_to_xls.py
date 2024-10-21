@@ -58,6 +58,20 @@ print("\n\n")
 # DataFrame으로 변환
 df = pd.DataFrame(data, columns=['random_word', 'word_index'])
 
+
+excel_file="captcha_strings_list.xlsx"
+
+# 엑셀 파일이 이미 있으면 기존 파일에 추가, 없으면 새로 생성 
+if os.path.exists(excel_file):
+    existing_df = pd.read_excel(excel_file)
+    df = pd.concat([existing_df, df], ignore_index=True)
+
+# 엑셀 파일 저장
+df.to_excel(excel_file, index=False)
+
+print(f"문자열이 {excel_file}에 저장되었습니다.")
+
+
 # 결과 출력
 print(df)
 print("\n\n")
