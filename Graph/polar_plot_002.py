@@ -13,3 +13,5 @@ ax.plot(theta, r, marker='o')
 # 플롯 설정
 ax.set_title("Custom Data Polar Plot", va='bottom')
 plt.show()
+
+
