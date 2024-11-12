@@ -26,5 +26,6 @@ yt-dlp는 기본적으로 콘솔에 출력되는 로그를 조절할 수 있는 
 
 yt-dlp의 YoutubeDL 클래스에 내장된 logger를 활용하여 다운로드 상태와 함께 yt-dlp의 다른 출력 내용도 표시할 수 있습니다.
 
+![image](https://github.com/user-attachments/assets/3c4c29b4-3fbf-4a6e-825d-4a81e9e487b6)
 
 
