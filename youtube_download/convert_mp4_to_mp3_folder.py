@@ -19,6 +19,11 @@ for filename in os.listdir(folder_path):
         mp4_path = os.path.join(folder_path, filename)
         mp3_path = os.path.join(folder_path, filename.replace('.mp4', '.mp3'))
         
+        #cc
+        if os.path.exists(mp3_path):
+            print(f"Skipped: {filename} (MP3 already exists)")
+            continue
+            
         # 비디오에서 오디오 추출 후 MP3로 저장
         video = VideoFileClip(mp4_path)
         video.audio.write_audiofile(mp3_path)
