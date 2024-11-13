@@ -1,4 +1,5 @@
 # 최종본  pyQt로 만듬. 
+ 파일명 : pyQt_main_form.py
 
 ![image](https://github.com/user-attachments/assets/bdaa4de4-ce6a-4aef-bbd5-b8c0357c6a33)
 
