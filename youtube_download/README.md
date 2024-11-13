@@ -1,6 +1,10 @@
 # 최종본  pyQt로 만듬. 
  파일명 : pyQt_main_form.py
 
+ [python] 파이썬, pyQT 이용한 유튜브 영상다운로드, 변환,파일리스트
+
+ 
+
 ![image](https://github.com/user-attachments/assets/bdaa4de4-ce6a-4aef-bbd5-b8c0357c6a33)
 
 ![image](https://github.com/user-attachments/assets/b3c8d62a-684a-41e5-b482-b744d56bc08a)
