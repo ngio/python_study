@@ -8,11 +8,15 @@
 
 https://www.tiobe.com/tiobe-index/
 
-TIOBE Index for August 2024
-August Headline: Python is chasing Java's TIOBE index records
+
+
+![image](https://github.com/user-attachments/assets/4c6b17cf-0f80-4f3d-a04c-7767a95b0745)
+
+# TIOBE Index for August 2024
+### August Headline: Python is chasing Java's TIOBE index records
 This month, Python has a ranking of more than 18% for the first time in its history. The last time a language hit more than 18% was Java in November 2016. Java is also the language with the highest ranking ever: 26.49% in June 2001. Runner up C++ is now exactly 8% behind Python, and that difference between position #1 and position #2 is also almost a record. The highest difference ever between position #1 and position #2 was in November 2016 when Java was 9.55% ahead of C. In summary, Python's hegemony is now undeniable. It is likely that it is Python's next step to become the most popular programming language ever. Is there any new language expected to come close to Python soon? Possible contenders Rust and Kotlin are approaching the TIOBE index top 10 fast, but it will take a lot of time before they become a real threat to Python. --Paul Jansen CEO TIOBE Software
 
-The TIOBE Programming Community index is an indicator of the popularity of programming languages. The index is updated once a month. The ratings are based on the number of skilled engineers world-wide, courses and third party vendors. Popular web sites Google, Amazon, Wikipedia, Bing and more than 20 others are used to calculate the ratings. It is important to note that the TIOBE index is not about the best programming language or the language in which most lines of code have been written.
+### The TIOBE Programming Community index is an indicator of the popularity of programming languages. The index is updated once a month. The ratings are based on the number of skilled engineers world-wide, courses and third party vendors. Popular web sites Google, Amazon, Wikipedia, Bing and more than 20 others are used to calculate the ratings. It is important to note that the TIOBE index is not about the best programming language or the language in which most lines of code have been written.
 
 The index can be used to check whether your programming skills are still up to date or to make a strategic decision about what programming language should be adopted when starting to build a new software system. The definition of the TIOBE index can be found here.
 
