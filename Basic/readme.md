@@ -54,33 +54,20 @@ Merry_christmas_004.py
                              Mer
                               r
 
-
- 
-
-                ChMerry C           rry ChMer
-            ry ChMerry ChMerr   hMerry ChMerry Ch
-          rry ChMerry ChMerry ChMerry ChMerry ChMer
-         rry ChMerry ChMerry ChMerry ChMerry ChMerry
-        rry ChMerry ChMerry ChMerry ChMerry ChMerry C
-        ry ChMerry ChMerry ChMerry ChMerry ChMerry Ch
-        y ChMerry ChMerry ChMerry ChMerry ChMerry ChM
-         ChMerry ChMerry ChMerry ChMerry ChMerry ChMe
-        ChMerry ChMerry ChMerry ChMerry ChMerry ChMer
-        hMerry ChMerry ChMerry ChMerry ChMerry ChMerr
-         erry ChMerry ChMerry ChMerry ChMerry ChMerr
-          ry ChMerry ChMerry ChMerry ChMerry ChMerr
-          y ChMerry ChMerry ChMerry ChMerry ChMerry
-            hMerry ChMerry ChMerry ChMerry ChMerr
-             erry ChMerry ChMerry ChMerry ChMerr
-              ry ChMerry ChMerry ChMerry ChMerr
-                ChMerry ChMerry ChMerry ChMer
-                  erry ChMerry ChMerry ChMe
-                    y ChMerry ChMerry ChM
-                       Merry ChMerry C
-                          y ChMerry
-                             Mer
-                              r
-
+ Merry christmas Tree
+               *
+              ***
+             *****
+            *******
+           *********
+          ***********
+         *************
+        ***************
+       *****************
+               ||
+               ||
+               ||
+            \======/
 
 
 
