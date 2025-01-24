@@ -1,3 +1,8 @@
+""" 
+선택한 파일이 엑셀 파일(.xlsx, .xls)인 경우, 엑셀 내용을 시트별로 읽어와 화면에 출력하고, 텍스트 파일인 경우 텍스트 내용을 그대로 보여주는 PyQt5 프로그램입니다.
+엑셀 파일 처리를 위해 openpyxl 또는 pandas 라이브러리를 사용할 수 있습니다. 여기서는 pandas를 이용합니다.
+"""
+
 import sys
 import os
 import pandas as pd
