@@ -33,6 +33,41 @@ Add 'rest_framework' to your INSTALLED_APPS setting.
     ]
 
 
+# 마이그레이션 
+
+    터미널에서 장고 프로젝트 디렉토리인 mysite 로 이동 합니다.
+    
+    (.conda) (c:\dev\django\.conda) C:\dev\django>cd mysite
+    
+    터미널에서 python manage.py makemigrations 라는 명령어를 실행합니다.
+    
+    (.conda) (c:\dev\django\.conda) C:\dev\django\mysite>python manage.py makemigrations
+    
+    터미널에서 python manage.py migrate 라는 명령어를 실행합니다.
+    
+    (.conda) (c:\dev\django\.conda) C:\dev\django\mysite>python manage.py migrate
+
+    
+
+![image](https://github.com/user-attachments/assets/f7540752-1fe1-4367-8387-99233741684c)
+
+
+# [Python] 서버 실행
+
+## http://127.0.0.1:8000/
+
+    터미널에서 장고 프로젝트 디렉토리인 mysite 로 이동 합니다.
+    
+    (.conda) (c:\dev\django\.conda) C:\dev\django>cd mysite
+    
+    터미널에서 mysite 디렉터리로 이동 후 python manage.py runserver 라는 명령어를 실행합니다.
+    
+    (.conda) (c:\dev\django\.conda) C:\dev\django\mysite>python manage.py runserver
+    
+    서버가 정상적으로 실행되었다면 웹브라우저를 이용하여 http://127.0.0.1:8000/ 에 접속합니다.
+
+![image](https://github.com/user-attachments/assets/420d25cd-db65-40cc-ae07-0b62e22ed6dc)
+
 
 
 
