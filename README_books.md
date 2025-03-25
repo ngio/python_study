@@ -23,3 +23,7 @@ https://wikidocs.net/book/1
 
 <br>
 <img src="https://wikidocs.net/images//book/Qt_for_beginner-01.jpg" > [초보자를 위한 Python GUI 프로그래밍 - PyQt5](https://wikidocs.net/book/2944)
+
+
+[소설처럼 읽는 장고 웹 프레임워크](https://wikidocs.net/book/16995) 
+
