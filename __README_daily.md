@@ -1,4 +1,8 @@
 
+    2025-06-19 python이 Top이구나. 
+
+<img src="https://github.com/user-attachments/assets/e87a253c-9acc-47b1-ac2d-c5dfad5fa5ec" style="width:500px; height:auto;">
+
     2025-06-18 requirement.txt 생성하기  pip freeze > requirements.txt
     2025-06-17 다시 정체, 그래도 뭔가 해야함.  PC가 교체되어서 리셋되어버림. 
     2025-06-16 장마시작인가? 비도 많이 오고, 덥다.
