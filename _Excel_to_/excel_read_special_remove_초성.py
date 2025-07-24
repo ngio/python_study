@@ -114,7 +114,7 @@ def remove_special_characters_and_spaces(text):
 
 
 # --- 사용 예시 ---
-input_excel_file = './data/검색어정리.xlsx' # 여기에 실제 파일 경로를 입력하세요.
+input_excel_file = './data/test_01.xlsx' # 여기에 실제 파일 경로를 입력하세요.
 column_to_read = 2  # B열 (2번째 열)에서 읽습니다.
 
 # 함수 호출
