@@ -1,4 +1,5 @@
 
+    2025-07-25 그래도 꾸준히 ~
     2025-06-19 python이 Top이구나. 
 
 <img src="https://github.com/user-attachments/assets/e87a253c-9acc-47b1-ac2d-c5dfad5fa5ec" style="width:500px; height:auto;">
