@@ -16,11 +16,14 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
       pipreqs . --encoding=utf-8 --force
 
 
-      .: 현재 디렉토리를 스캔하라는 의미입니다.
-      
-      --encoding=utf-8: 파일 인코딩을 지정합니다. (한글 주석 등이 있을 경우 필요)
-      
-      --force: 이미 requirements.txt 파일이 존재하더라도 덮어쓰도록 합니다. (주의해서 사용)
+             .: 현재 디렉토리를 스캔하라는 의미입니다.
+             
+             --encoding=utf-8: 파일 인코딩을 지정합니다. (한글 주석 등이 있을 경우 필요)
+             
+             --force: 이미 requirements.txt 파일이 존재하더라도 덮어쓰도록 합니다. (주의해서 사용)
+
+
+      pip install -r requirements.txt
 
 
 2024-08-09 [TIOBE Index for August 2024 Python 1st](./TIOBE_Index_for_August_2024_Python_1st)
