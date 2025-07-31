@@ -4,6 +4,7 @@
 
 * 파일 실행에 필요한 모듈 리스트 추출 방법 : pipreqs 사용 (권장)
 
+* FFmpeg 설치 : README_FFmpeg_install.md
 
  [python] 파이썬, pyQT 이용한 유튜브 영상다운로드, 변환,파일리스트
 
