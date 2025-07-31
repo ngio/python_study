@@ -39,7 +39,9 @@ ffmpeg -version을 입력하여 FFmpeg 버전 정보가 올바르게 출력되�
 
 C:\ffmpeg\bin
 
+<img width="731" height="391" alt="image" src="https://github.com/user-attachments/assets/7cd1b249-502a-415e-868d-0c547d567c41" />
 
+<img width="763" height="980" alt="image" src="https://github.com/user-attachments/assets/49268f0e-fed8-44c0-bd49-ae92ba78103e" />
 
 
 <img width="1096" height="426" alt="image" src="https://github.com/user-attachments/assets/bda4f4cd-fed3-4b39-a37f-3584da3dad4d" />
