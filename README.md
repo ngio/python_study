@@ -7,33 +7,19 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 <img src="./img/python-logo-generic.svg"  >  
 
 
+ 
 
+* 파일 실행에 필요한 모듈 리스트 추출 방법 : pipreqs 사용 (권장)
 
-                ChMerry C           rry ChMer
-            ry ChMerry ChMerr   hMerry ChMerry Ch
-          rry ChMerry ChMerry ChMerry ChMerry ChMer
-         rry ChMerry ChMerry ChMerry ChMerry ChMerry
-        rry ChMerry ChMerry ChMerry ChMerry ChMerry C
-        ry ChMerry ChMerry ChMerry ChMerry ChMerry Ch
-        y ChMerry ChMerry ChMerry ChMerry ChMerry ChM
-         ChMerry ChMerry ChMerry ChMerry ChMerry ChMe
-        ChMerry ChMerry ChMerry ChMerry ChMerry ChMer
-        hMerry ChMerry ChMerry ChMerry ChMerry ChMerr
-         erry ChMerry ChMerry ChMerry ChMerry ChMerr
-          ry ChMerry ChMerry ChMerry ChMerry ChMerr
-          y ChMerry ChMerry ChMerry ChMerry ChMerry
-            hMerry ChMerry ChMerry ChMerry ChMerr
-             erry ChMerry ChMerry ChMerry ChMerr
-              ry ChMerry ChMerry ChMerry ChMerr
-                ChMerry ChMerry ChMerry ChMer
-                  erry ChMerry ChMerry ChMe
-                    y ChMerry ChMerry ChM
-                       Merry ChMerry C
-                          y ChMerry
-                             Mer
-                              r
+      pip install pipreqs
 
+      pipreqs . --encoding=utf-8 --force
 
+.: 현재 디렉토리를 스캔하라는 의미입니다.
+
+--encoding=utf-8: 파일 인코딩을 지정합니다. (한글 주석 등이 있을 경우 필요)
+
+--force: 이미 requirements.txt 파일이 존재하더라도 덮어쓰도록 합니다. (주의해서 사용)
 
 
 2024-08-09 [TIOBE Index for August 2024 Python 1st](./TIOBE_Index_for_August_2024_Python_1st)
