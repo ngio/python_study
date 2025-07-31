@@ -4,7 +4,8 @@ import subprocess
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QLabel, QLineEdit, QScrollArea, QListWidget, QListWidgetItem, QMessageBox
 import yt_dlp
 import threading
-from moviepy.editor import AudioFileClip
+#from moviepy.editor import AudioFileClip #버전업되면서 .editor 가 없어짐. 
+from moviepy import AudioFileClip
 
 
 class MainWindow(QWidget):
