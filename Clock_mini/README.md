@@ -9,3 +9,4 @@ dist 폴더로 이동:
 
 
 
+<img width="684" height="539" alt="image" src="https://github.com/user-attachments/assets/26a2b1bf-cb5d-4b68-9af5-b2f540b54d1a" />
