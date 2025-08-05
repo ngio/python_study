@@ -4,6 +4,6 @@
     pip install yfinance plyer
 
 
-
+     pip install PyQt5 yfinance
 
 
