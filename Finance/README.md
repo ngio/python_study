@@ -7,3 +7,4 @@
      pip install PyQt5 yfinance
 
 
+<img width="542" height="525" alt="image" src="https://github.com/user-attachments/assets/aed0ff76-63a9-4e56-925c-4671df538197" />
