@@ -25,3 +25,34 @@ class YourApp(App):
 
 if __name__ == '__main__':
     YourApp().run()
+
+
+====================================================================================================
+
+
+## Kivy 개발 환경 설정
+
+# conda에서 파이썬 가상 환경 (virtual environments) 생성하기
+
+conda create -n kivy_env python=3.11
+
+conda env list
+
+# conda environments:
+#
+base                   C:\ProgramData\anaconda3
+kivy_env               D:\Users\wani\.conda\envs\kivy_env
+py_test              * D:\Users\wani\.conda\envs\py_test
+
+ conda activate kivy_env
+
+(py_test) PS D:\_py_kivy> conda activate kivy_env
+(kivy_env) PS D:\_py_kivy>
+
+# Kivy 설치
+pip install kivy
+
+
+# Python 코드를 안드로이드 폰에서 실행하려면 Buildozer를 사용하여 APK 파일을 생성해야 합니다.
+pip install buildozer
+
