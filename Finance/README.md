@@ -7,4 +7,7 @@
      pip install PyQt5 yfinance
 
 
+
+EXE 파일로 배포하기 : pyinstaller --onefile --windowed miniClockApp_finance_003.py 
+
 <img width="542" height="525" alt="image" src="https://github.com/user-attachments/assets/aed0ff76-63a9-4e56-925c-4671df538197" />
