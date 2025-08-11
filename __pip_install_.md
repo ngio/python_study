@@ -12,7 +12,8 @@ ValueError: Unable to find resource t64.exe in package pip._vendor.distlib 발�
 -- 설치 모듈 리스트 가져오기 
 pip freeze > requirements.txt
 
-
+-- 리스트로 설치하기 
+pip install -r requirements.txt
 
 
 
