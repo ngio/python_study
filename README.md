@@ -8,7 +8,7 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 
 
 
-[python] python, rust 의 관계 : 
+[python] python, rust 의 관계 :  https://github.com/ngio/python_study/blob/main/python_rust_%EC%9D%98_%EA%B4%80%EA%B3%84.md
 
  
 
