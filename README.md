@@ -7,6 +7,9 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 <img src="./img/python-logo-generic.svg"  >  
 
 
+
+[python] python, rust 의 관계 : 
+
  
 
 * 파일 실행에 필요한 모듈 리스트 추출 방법 : pipreqs 사용 (권장)
