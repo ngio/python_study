@@ -7,7 +7,8 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 <img src="./img/python-logo-generic.svg"  >  
 
 
- * 도서 - 친절한 파이썬 : https://wikidocs.net/book/17274
+ * 도서 - 친절한 파이썬 : https://wikidocs.net/book/17274  (2025-09-01)
+
 
 
 [python] python, rust 의 관계 :  https://github.com/ngio/python_study/blob/main/python_rust_%EC%9D%98_%EA%B4%80%EA%B3%84.md
