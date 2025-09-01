@@ -7,9 +7,11 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 <img src="./img/python-logo-generic.svg"  >  
 
 
- * 도서 - 친절한 파이썬 : https://wikidocs.net/book/17274  (2025-09-01)
+## 도서
+ * 친절한 파이썬 : https://wikidocs.net/book/17274  (2025-09-01)
+ * 파이썬 - 기본을 갈고 닦자! : https://wikidocs.net/book/1553
 
-
+<br><br><br>
 
 [python] python, rust 의 관계 :  https://github.com/ngio/python_study/blob/main/python_rust_%EC%9D%98_%EA%B4%80%EA%B3%84.md
 
@@ -95,20 +97,20 @@ CoP : 학습공동체
 
 2022-11-24
 2주차 : 파이썬 설치 상태 확인 
-        파이썬 모듈 설치하기 - https://docs.python.org/ko/3.7/installing/index.html
-        기본문법 고고!   - https://wikidocs.net/11
-           시작하기 : https://wikidocs.net/7014
-           변수 : https://wikidocs.net/7021
-           문자열 1 : https://wikidocs.net/7022
-                  2 : https://wikidocs.net/7024
-                  3 : https://wikidocs.net/78558
-           리스트 1 : https://wikidocs.net/7023
-                 2 : https://wikidocs.net/7025
-            튜플 : https://wikidocs.net/7027
-            딕셔너리 1 : https://wikidocs.net/22000
-                    2 : https://wikidocs.net/78563
+        파이썬 모듈 설치하기 - https://docs.python.org/ko/3.7/installing/index.html <br>
+        기본문법 고고!   - https://wikidocs.net/11 <br>
+           시작하기 : https://wikidocs.net/7014 <br>
+           변수 : https://wikidocs.net/7021 <br>
+           문자열 1 : https://wikidocs.net/7022 <br>
+                  2 : https://wikidocs.net/7024 <br>
+                  3 : https://wikidocs.net/78558 <br>
+           리스트 1 : https://wikidocs.net/7023 <br>
+                 2 : https://wikidocs.net/7025 <br>
+            튜플 : https://wikidocs.net/7027 <br>
+            딕셔너리 1 : https://wikidocs.net/22000 <br>
+                    2 : https://wikidocs.net/78563 <br> <br>
           
-         워드클라우드 만들기
+  워드클라우드 만들기  <br>
 
 
 2022-11-30
