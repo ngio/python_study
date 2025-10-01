@@ -26,6 +26,7 @@
     구문_테스트.py
     반복문.py
     작업디렉토리_변경.py
+    ASCll_banner_generator__pyfigiet_test.py
 
 
 Merry_christmas_004.py
@@ -78,5 +79,6 @@ Merry_christmas_004.py
      ![image](https://github.com/ngio/python_study/assets/3784942/b07b5b2b-1c8a-4c6d-ad74-1df4298230bb)
 
 
+<img width="637" height="846" alt="image" src="https://github.com/user-attachments/assets/bf54b84a-e0bb-40ec-9845-669d98de1941" />
 
 
