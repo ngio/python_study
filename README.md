@@ -12,6 +12,7 @@ pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설�
 
 
 ## 도서
+ * 함께해요 파이썬 생태계 : <a href="https://wikidocs.net/book/14021" target="_blank" >https://wikidocs.net/book/14021</a>
  * 친절한 파이썬 : https://wikidocs.net/book/17274  (2025-09-01)
  * 파이썬 - 기본을 갈고 닦자! : https://wikidocs.net/book/1553
 
