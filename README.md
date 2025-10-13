@@ -1,6 +1,10 @@
 # python_study 🐍
 python, konply, numpy, matplotlib, networkx, pandas, Gradio
 
+
+2025-10-07 [PYTHON] Python 3.14.0 정식 버전 출시 🐍 https://www.python.org/downloads/release/python-3140/
+
+
 ## opencv
 pip install opencv-python은 OpenCV(Open Source Computer Vision Library)를 설치하기 위한 명령입니다. OpenCV는 이미지 처리와 컴퓨터 비전에 사용되는 강력한 라이브러리로, Python에서도 널리 사용됩니다.
 
