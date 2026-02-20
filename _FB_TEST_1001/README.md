@@ -29,6 +29,12 @@ firebase-admin 라이브러리를 사용하여 인증부터 데이터 CRUD(생�
  
         pip install firebase-admin
 
+        pip install PyQt5 firebase-admin
+
+
+
+   
+
 3.주요 기능 설명 (MSSQL 사용자 관점)
   ref.push(data) (Insert):
   
